@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5c15c76.css",
-    "main.js": "/static/js/main.5dbe62d3.js",
-    "static/media/AC-Angry_unicode.ttf": "/static/media/AC-Angry_unicode.1e28e41491b5fcb9eae0.ttf",
-    "static/media/logoKira.png": "/static/media/logoKira.e217af360a0d4d667651.png",
-    "static/media/UniNeueHeavyItalic.woff": "/static/media/UniNeueHeavyItalic.3758245eec02b22857cd.woff",
-    "static/media/UniNeueHeavyItalic.woff2": "/static/media/UniNeueHeavyItalic.8263e20bd68bcd1535f4.woff2",
-    "static/media/ACShihan.otf": "/static/media/ACShihan.cee6822366cf8d4a2983.otf",
-    "index.html": "/index.html",
-    "main.d5c15c76.css.map": "/static/css/main.d5c15c76.css.map",
-    "main.5dbe62d3.js.map": "/static/js/main.5dbe62d3.js.map"
+    "main.css": "./static/css/main.90490589.css",
+    "main.js": "./static/js/main.3ad6b53d.js",
+    "static/media/AC-Angry_unicode.ttf": "./static/media/AC-Angry_unicode.1e28e41491b5fcb9eae0.ttf",
+    "static/media/logoKira.png": "./static/media/logoKira.e217af360a0d4d667651.png",
+    "static/media/UniNeueHeavyItalic.woff": "./static/media/UniNeueHeavyItalic.3758245eec02b22857cd.woff",
+    "static/media/UniNeueHeavyItalic.woff2": "./static/media/UniNeueHeavyItalic.8263e20bd68bcd1535f4.woff2",
+    "static/media/ACShihan.otf": "./static/media/ACShihan.cee6822366cf8d4a2983.otf",
+    "index.html": "./index.html",
+    "main.90490589.css.map": "./static/css/main.90490589.css.map",
+    "main.3ad6b53d.js.map": "./static/js/main.3ad6b53d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5c15c76.css",
-    "static/js/main.5dbe62d3.js"
+    "static/css/main.90490589.css",
+    "static/js/main.3ad6b53d.js"
   ]
 }
