@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.e9bfa38b.css",
-    "main.js": "./static/js/main.eeb5c776.js",
+    "main.css": "./static/css/main.67cb4974.css",
+    "main.js": "./static/js/main.23c642e1.js",
     "static/media/AC-Angry_unicode.ttf": "./static/media/AC-Angry_unicode.1e28e41491b5fcb9eae0.ttf",
     "static/media/logoKira.png": "./static/media/logoKira.e217af360a0d4d667651.png",
+    "static/media/petshopGR.geojson": "./static/media/petshopGR.180620407c035e9147be.geojson",
+    "static/media/veterinaryGR.geojson": "./static/media/veterinaryGR.239835cd016a9a68ce42.geojson",
     "static/media/UniNeueHeavyItalic.woff": "./static/media/UniNeueHeavyItalic.3758245eec02b22857cd.woff",
     "static/media/UniNeueHeavyItalic.woff2": "./static/media/UniNeueHeavyItalic.8263e20bd68bcd1535f4.woff2",
     "static/media/ACShihan.otf": "./static/media/ACShihan.cee6822366cf8d4a2983.otf",
+    "static/media/dogparkGR.geojson": "./static/media/dogparkGR.7421bb001d081dc56177.geojson",
     "index.html": "./index.html",
-    "main.e9bfa38b.css.map": "./static/css/main.e9bfa38b.css.map",
-    "main.eeb5c776.js.map": "./static/js/main.eeb5c776.js.map"
+    "main.67cb4974.css.map": "./static/css/main.67cb4974.css.map",
+    "main.23c642e1.js.map": "./static/js/main.23c642e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9bfa38b.css",
-    "static/js/main.eeb5c776.js"
+    "static/css/main.67cb4974.css",
+    "static/js/main.23c642e1.js"
   ]
 }
