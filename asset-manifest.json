@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.98d87891.css",
-    "main.js": "./static/js/main.54cc18d7.js",
+    "main.css": "./static/css/main.c3d01136.css",
+    "main.js": "./static/js/main.a86786af.js",
     "static/media/AC-Angry_unicode.ttf": "./static/media/AC-Angry_unicode.1e28e41491b5fcb9eae0.ttf",
     "static/media/logoKira.png": "./static/media/logoKira.e217af360a0d4d667651.png",
     "static/media/UniNeueHeavyItalic.woff": "./static/media/UniNeueHeavyItalic.3758245eec02b22857cd.woff",
     "static/media/UniNeueHeavyItalic.woff2": "./static/media/UniNeueHeavyItalic.8263e20bd68bcd1535f4.woff2",
     "static/media/ACShihan.otf": "./static/media/ACShihan.cee6822366cf8d4a2983.otf",
     "index.html": "./index.html",
-    "main.98d87891.css.map": "./static/css/main.98d87891.css.map",
-    "main.54cc18d7.js.map": "./static/js/main.54cc18d7.js.map"
+    "main.c3d01136.css.map": "./static/css/main.c3d01136.css.map",
+    "main.a86786af.js.map": "./static/js/main.a86786af.js.map"
   },
   "entrypoints": [
-    "static/css/main.98d87891.css",
-    "static/js/main.54cc18d7.js"
+    "static/css/main.c3d01136.css",
+    "static/js/main.a86786af.js"
   ]
 }
