@@ -3,25 +3,30 @@
   "name": "Pet Venue by Chris Koveos",
   "icons": [
     {
-      "src": "/img/logoPet.png",
+      "src": "./img/logoPet.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/logoKira.png",
+      "src": "./img/logoKira.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "./img/logo144.png",
+      "sizes": "144x144",
+      "type": "image/png"
     }
   ],
   "screenshots": [
     {
-      "src": "/screenshots/screenshot1.png",
+      "src": "./screenshots/screenshot1.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "/screenshots/screenshot2.png",
+      "src": "./screenshots/screenshot2.png",
       "sizes": "720x1280",
       "type": "image/png",
       "form_factor": "narrow"
