@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "./static/css/main.530b5483.css",
-    "main.js": "./static/js/main.c91dac7c.js",
+    "main.js": "./static/js/main.7ac87189.js",
     "static/media/AC-Angry_unicode.ttf": "./static/media/AC-Angry_unicode.1e28e41491b5fcb9eae0.ttf",
     "static/media/petshopGR.geojson": "./static/media/petshopGR.180620407c035e9147be.geojson",
     "static/media/veterinaryGR.geojson": "./static/media/veterinaryGR.239835cd016a9a68ce42.geojson",
-    "static/media/logoPet.png": "./static/media/logoPet.85f451f1364950524406.png",
     "static/media/UniNeueHeavyItalic.woff": "./static/media/UniNeueHeavyItalic.3758245eec02b22857cd.woff",
     "static/media/UniNeueHeavyItalic.woff2": "./static/media/UniNeueHeavyItalic.8263e20bd68bcd1535f4.woff2",
     "static/media/petgroomer.png": "./static/media/petgroomer.ac8b97047c4f700c53a0.png",
     "static/media/ACShihan.otf": "./static/media/ACShihan.cee6822366cf8d4a2983.otf",
     "static/media/petshop.png": "./static/media/petshop.38218a36a41d1fe1734c.png",
     "static/media/dogparkGR.geojson": "./static/media/dogparkGR.7421bb001d081dc56177.geojson",
+    "static/media/logoPet.png": "./static/media/logoPet.4da9fff17342a8389e03.png",
     "static/media/humanIcon.png": "./static/media/humanIcon.bc2e23bcfbf02dbe7ac4.png",
     "static/media/dogpark.png": "./static/media/dogpark.2a6e9b55cfbd0d3fe096.png",
     "index.html": "./index.html",
     "main.530b5483.css.map": "./static/css/main.530b5483.css.map",
-    "main.c91dac7c.js.map": "./static/js/main.c91dac7c.js.map"
+    "main.7ac87189.js.map": "./static/js/main.7ac87189.js.map"
   },
   "entrypoints": [
     "static/css/main.530b5483.css",
-    "static/js/main.c91dac7c.js"
+    "static/js/main.7ac87189.js"
   ]
 }
