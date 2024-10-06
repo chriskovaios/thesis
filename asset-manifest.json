@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.127ee9fe.css",
-    "main.js": "./static/js/main.0e0abf62.js",
+    "main.js": "./static/js/main.129f46db.js",
     "static/media/AC-Angry_unicode.ttf": "./static/media/AC-Angry_unicode.1e28e41491b5fcb9eae0.ttf",
     "static/media/logoKira.png": "./static/media/logoKira.e217af360a0d4d667651.png",
     "static/media/petshopGR.geojson": "./static/media/petshopGR.180620407c035e9147be.geojson",
@@ -16,10 +16,10 @@
     "static/media/dogpark.png": "./static/media/dogpark.2a6e9b55cfbd0d3fe096.png",
     "index.html": "./index.html",
     "main.127ee9fe.css.map": "./static/css/main.127ee9fe.css.map",
-    "main.0e0abf62.js.map": "./static/js/main.0e0abf62.js.map"
+    "main.129f46db.js.map": "./static/js/main.129f46db.js.map"
   },
   "entrypoints": [
     "static/css/main.127ee9fe.css",
-    "static/js/main.0e0abf62.js"
+    "static/js/main.129f46db.js"
   ]
 }
