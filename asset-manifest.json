@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/thesis/static/css/main.301f7590.css",
-    "main.js": "/thesis/static/js/main.374bc0c3.js",
+    "main.js": "/thesis/static/js/main.54a2576a.js",
+    "static/js/453.a1d0b822.chunk.js": "/thesis/static/js/453.a1d0b822.chunk.js",
     "static/media/AC-Angry_unicode.ttf": "/thesis/static/media/AC-Angry_unicode.1e28e41491b5fcb9eae0.ttf",
     "static/media/petshopGR.geojson": "/thesis/static/media/petshopGR.180620407c035e9147be.geojson",
     "static/media/veterinaryGR.geojson": "/thesis/static/media/veterinaryGR.239835cd016a9a68ce42.geojson",
@@ -16,10 +17,11 @@
     "static/media/dogpark.png": "/thesis/static/media/dogpark.2a6e9b55cfbd0d3fe096.png",
     "index.html": "/thesis/index.html",
     "main.301f7590.css.map": "/thesis/static/css/main.301f7590.css.map",
-    "main.374bc0c3.js.map": "/thesis/static/js/main.374bc0c3.js.map"
+    "main.54a2576a.js.map": "/thesis/static/js/main.54a2576a.js.map",
+    "453.a1d0b822.chunk.js.map": "/thesis/static/js/453.a1d0b822.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.301f7590.css",
-    "static/js/main.374bc0c3.js"
+    "static/js/main.54a2576a.js"
   ]
 }
