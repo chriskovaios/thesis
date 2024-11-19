@@ -1,0 +1,732 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-10-05T17:31:29Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258503269",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "63",
+        "addr:postcode": "601 34",
+        "addr:street": "Λεωνίδα Ιασωνίδη",
+        "name": "Pet Parlour",
+        "operator": "Ραπτοπούλου Αντωνία",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5276449,
+          40.2700889
+        ]
+      },
+      "id": "node/4258503269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4284575707",
+        "addr:city": "Λάρισα",
+        "addr:country": "GR",
+        "addr:housenumber": "19",
+        "addr:postcode": "41222",
+        "addr:street": "Ηρώων Πολυτεχνείου",
+        "description:service": "Το πρώτο στη Λάρισα κομμωτήριο σκύλων χωρίς νάρκωση. Επαγγελματίας groomer. Με πολύ αγάπη και φροντίδα σας προσφέρει μπάνιο, χτένισμα, καλλιτεχνικό κούρεμα, τρίμιγκ, καθάρισμα αυτιών, κόψιμο νυχιών, προετοιμασία για έκθεση κόκερ σπάνιελ αγγλικό.",
+        "mobile": "+30-6983-852902",
+        "name": "Θεοδώρα Καλτσά",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "operator": "Θεοδώρα Καλτσά",
+        "payment:cash": "yes",
+        "payment:coins": "no",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "pet": "dog",
+        "phone": "+30 2410 616089",
+        "shop": "pet_grooming",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4099349,
+          39.6326419
+        ]
+      },
+      "id": "node/4284575707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4311008088",
+        "description": "pet groomer",
+        "name": "Tzo",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7198041,
+          37.9625947
+        ]
+      },
+      "id": "node/4311008088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789380362",
+        "name": "groomalia",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.414977,
+          39.6348882
+        ]
+      },
+      "id": "node/4789380362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982586285",
+        "addr:city": "Δημοτική Ενότητα Νέας Χαλκηδόνας",
+        "addr:housenumber": "53",
+        "addr:street": "Δεκελείας",
+        "name": "Dog Spa",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7362204,
+          38.0313247
+        ]
+      },
+      "id": "node/5982586285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6076261243",
+        "description": "κομμωτήριο μικρών ζώων",
+        "name": "Pet point",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7469213,
+          37.97969
+        ]
+      },
+      "id": "node/6076261243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6245414209",
+        "name": "Σκυλομπουγάδα",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7612729,
+          38.0328358
+        ]
+      },
+      "id": "node/6245414209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6401862840",
+        "addr:city": "Νέο Ηράκλειο",
+        "addr:housenumber": "437",
+        "addr:street": "Ηρακλείου",
+        "name": "Pets Academy",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7702859,
+          38.0560265
+        ]
+      },
+      "id": "node/6401862840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6949979079",
+        "addr:housenumber": "46",
+        "name": "Κομμωτήριο σκύλων",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7487935,
+          38.0414546
+        ]
+      },
+      "id": "node/6949979079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7040117109",
+        "name": "Τσίου",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7262655,
+          37.9663737
+        ]
+      },
+      "id": "node/7040117109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7190031308",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "29",
+        "addr:street": "Θέμου Αννίνου",
+        "email": "aarongroomer@outlook.com.gr",
+        "facebook": "https://www.facebook.com/aarondoggroomer/",
+        "name": "Aaron.Groomer",
+        "phone": "2111118090",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7443759,
+          38.0207114
+        ]
+      },
+      "id": "node/7190031308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7293107882",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "119-121",
+        "addr:street": "Χαροκόπου",
+        "name": "Barber Pet",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7063763,
+          37.9613259
+        ]
+      },
+      "id": "node/7293107882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8312676513",
+        "addr:city": "Μυτιλήνη",
+        "addr:housenumber": "14",
+        "addr:street": "Καβέτσου",
+        "phone": "+302251100018",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5543134,
+          39.1030489
+        ]
+      },
+      "id": "node/8312676513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8334888380",
+        "addr:city": "ΜΥΤΙΛΗΝΗ",
+        "addr:housenumber": "8",
+        "addr:street": "ΒΥΡΩΝΑ ΚΑΡΑΠΑΝΑΓΙΩΤΟΥ",
+        "name": "Rantanplan",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5547429,
+          39.0969749
+        ]
+      },
+      "id": "node/8334888380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8777168499",
+        "name": "Spaw&Boutique",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7400929,
+          38.2590118
+        ]
+      },
+      "id": "node/8777168499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8988623685",
+        "description": "\"Καλλωπισμοί μικρών ζώων\"",
+        "name": "Το γιατάκι",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5502711,
+          39.0963616
+        ]
+      },
+      "id": "node/8988623685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9246785292",
+        "addr:city": "Ελληνικό",
+        "addr:housenumber": "44",
+        "addr:postcode": "16777",
+        "addr:street": "Αγίας Παρασκευής",
+        "name": "Elina's Pet Beauty",
+        "opening_hours": "Mo,We 10:00-18:00; Tu,Th,Fr 11:00-21:00; Sa 10:00-15:00",
+        "phone": "+30 2114173508",
+        "shop": "pet_grooming",
+        "website": "https://elinaspetbeauty.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7431567,
+          37.9057917
+        ]
+      },
+      "id": "node/9246785292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9325103513",
+        "name": "Pet grooming academy",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6445864,
+          37.9342425
+        ]
+      },
+      "id": "node/9325103513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9360341603",
+        "name": "Pet puzzle",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7524312,
+          38.0329952
+        ]
+      },
+      "id": "node/9360341603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9646457933",
+        "addr:city": "Περιστέρι",
+        "addr:housenumber": "26",
+        "addr:street": "Τρώων",
+        "level": "0",
+        "name": "Barky`s",
+        "opening_hours": "Mo-Fr 09:00-21:00",
+        "phone": "+30 21 1012 3489",
+        "shop": "pet_grooming",
+        "website": "www.barkys.gr",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7056468,
+          38.0176377
+        ]
+      },
+      "id": "node/9646457933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9847539280",
+        "addr:city": "Περιστέρι",
+        "addr:housenumber": "221",
+        "addr:street": "Θηβών",
+        "email": "irenefaroupou@gmail.com",
+        "facebook": "https://www.facebook.com/irenefaroupou?hc_ref=ARSS8JX6NqNkLcnGzIBxYMSkP0rJV4cNnzqlKnnJx-r9ebwTuctGvyAwFKqNLFkMswQ&fref=nf&__xts__[0]=68.ARCmyoWuOsUbb7NJaCO3i4tVUpvRwtnZs761ZjPIn4F5ImfsJNui0t3SXQbIHXaZuLjqELkNuyuMJZso0CwjmQZpJdmqtvP3-ZW-W5SDXFpKKwQasgbLyGZ",
+        "mobile": "6944652672",
+        "name": "Dogs & bubbles",
+        "shop": "pet_grooming",
+        "website": "dogandbubbles.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6926199,
+          38.018735
+        ]
+      },
+      "id": "node/9847539280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10106993494",
+        "addr:housenumber": "17",
+        "addr:street": "Δροσίνη",
+        "check_date": "2024-06-14",
+        "name": "Paw",
+        "shop": "pet_grooming",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7409444,
+          38.0200753
+        ]
+      },
+      "id": "node/10106993494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124891658",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "15",
+        "addr:postcode": "601 33",
+        "addr:street": "Τσιμισκή",
+        "name": "15th Dog Street",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5062036,
+          40.2721397
+        ]
+      },
+      "id": "node/10124891658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10156851538",
+        "diet:vegan": "yes",
+        "name": "The barking barber",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7129882,
+          37.9444791
+        ]
+      },
+      "id": "node/10156851538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10156852175",
+        "level": "-1",
+        "name": "The underdog",
+        "shop": "pet_grooming",
+        "website": "https://theunderdog.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.754443,
+          37.8590688
+        ]
+      },
+      "id": "node/10156852175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10168703670",
+        "name": "The Bark Tender",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.735388,
+          37.9904499
+        ]
+      },
+      "id": "node/10168703670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171492164",
+        "name": "All Star Grooming",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6341526,
+          37.978955
+        ]
+      },
+      "id": "node/10171492164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10174064101",
+        "name": "Zen",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7428262,
+          37.9862887
+        ]
+      },
+      "id": "node/10174064101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10214678041",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6378297,
+          37.9800824
+        ]
+      },
+      "id": "node/10214678041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10688868070",
+        "check_date": "2023-02-23",
+        "name": "Angel's grooming center",
+        "shop": "pet_grooming",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6432014,
+          37.9375148
+        ]
+      },
+      "id": "node/10688868070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693519130",
+        "addr:city": "Ζωγράφου",
+        "addr:housenumber": "4",
+        "addr:street": "Εθνικής Αντιστάσεως",
+        "check_date": "2024-08-27",
+        "check_date:opening_hours": "2024-07-22",
+        "name": "Fordogsake",
+        "opening_hours:signed": "no",
+        "shop": "pet_grooming",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7682729,
+          37.9720418
+        ]
+      },
+      "id": "node/10693519130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10746844915",
+        "name": "Happy pet bath",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7005885,
+          37.9322338
+        ]
+      },
+      "id": "node/10746844915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10949192844",
+        "addr:housenumber": "18",
+        "addr:street": "Κατσικογιάννη",
+        "name": "Silky Smooth Dogs",
+        "phone": "6906902838",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6003077,
+          38.4689811
+        ]
+      },
+      "id": "node/10949192844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11289770198",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "61",
+        "addr:street": "Παπαδιαμαντοπούλου",
+        "check_date": "2024-08-23",
+        "name": "Pelitos groomers",
+        "shop": "pet_grooming",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7596783,
+          37.9802557
+        ]
+      },
+      "id": "node/11289770198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11417618431",
+        "addr:city": "Νέα Σμύρνη",
+        "addr:housenumber": "21",
+        "addr:street": "Αιγαίου",
+        "email": "angiesdoggrooming@hotmail.com",
+        "facebook": "https://www.facebook.com/AngieDogGroomingNS/",
+        "name": "Angie's Dog Grooming",
+        "phone": "2109324246",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7167318,
+          37.9526192
+        ]
+      },
+      "id": "node/11417618431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12099321390",
+        "name": "Alice in dogland",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9478763,
+          40.6324358
+        ]
+      },
+      "id": "node/12099321390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12211669324",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "3",
+        "addr:postcode": "60100",
+        "addr:street": "Ζαλόγγου",
+        "mobile": "+30 6981113494",
+        "name": "Neko",
+        "opening_hours": "Mo 17:30-21:00; Tu-Fr 09:00-14:30,17:30-21:00; We 10:00-14:30; Sa 09:00-15:00",
+        "phone": "+30 23511 81636",
+        "shop": "pet_grooming",
+        "website": "https://nekohaircats.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5043157,
+          40.2720339
+        ]
+      },
+      "id": "node/12211669324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12213445869",
+        "addr:city": "Καλαμαριά",
+        "addr:housenumber": "42",
+        "addr:postcode": "55132",
+        "addr:street": "Κουντουριώτου",
+        "mobile": "+30 6987 259537",
+        "name": "GrooMiss Pet Care",
+        "shop": "pet_grooming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9587587,
+          40.5700401
+        ]
+      },
+      "id": "node/12213445869"
+    }
+  ]
+}

@@ -1,0 +1,7452 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-10-05T17:30:29Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274241251",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Pet Shop Κιβωτός",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.9483493,
+              37.4186702
+            ],
+            [
+              24.9483405,
+              37.4186082
+            ],
+            [
+              24.9483641,
+              37.4186061
+            ],
+            [
+              24.9484357,
+              37.4185997
+            ],
+            [
+              24.9484835,
+              37.4185955
+            ],
+            [
+              24.9484923,
+              37.4186574
+            ],
+            [
+              24.9483493,
+              37.4186702
+            ]
+          ]
+        ]
+      },
+      "id": "way/274241251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404277337",
+        "building": "yes",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8140964,
+              38.0286553
+            ],
+            [
+              23.8142084,
+              38.0285257
+            ],
+            [
+              23.8143033,
+              38.0285782
+            ],
+            [
+              23.8142084,
+              38.0287066
+            ],
+            [
+              23.8140964,
+              38.0286553
+            ]
+          ]
+        ]
+      },
+      "id": "way/404277337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/414600932",
+        "addr:city": "Χαλάνδρι",
+        "addr:housenumber": "116",
+        "addr:street": "Αγίας Παρασκευής",
+        "building": "yes",
+        "check_date": "2024-09-29",
+        "name": "Sonia´s pet shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8109705,
+              38.017349
+            ],
+            [
+              23.8109176,
+              38.0172653
+            ],
+            [
+              23.8108831,
+              38.0172788
+            ],
+            [
+              23.8108601,
+              38.0172424
+            ],
+            [
+              23.8109706,
+              38.0171991
+            ],
+            [
+              23.8110464,
+              38.0173192
+            ],
+            [
+              23.8109705,
+              38.017349
+            ]
+          ]
+        ]
+      },
+      "id": "way/414600932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434309159",
+        "building": "yes",
+        "name": "Αφοι Παναγιώτου",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4534842,
+              37.6718663
+            ],
+            [
+              21.453436,
+              37.671724
+            ],
+            [
+              21.45379,
+              37.6716646
+            ],
+            [
+              21.4538356,
+              37.6718026
+            ],
+            [
+              21.4534842,
+              37.6718663
+            ]
+          ]
+        ]
+      },
+      "id": "way/434309159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439118524",
+        "addr:city": "Αργυρούπολη",
+        "addr:country": "GR",
+        "addr:housenumber": "10",
+        "addr:postcode": "16452",
+        "addr:street": "Λαμίας",
+        "building": "yes",
+        "name": "Pet panic",
+        "phone": "+30 2109948480",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.7392955,
+              37.9065546
+            ],
+            [
+              23.7392788,
+              37.9064232
+            ],
+            [
+              23.7392773,
+              37.9064116
+            ],
+            [
+              23.7394514,
+              37.9063962
+            ],
+            [
+              23.7394685,
+              37.9065413
+            ],
+            [
+              23.7392955,
+              37.9065546
+            ]
+          ]
+        ]
+      },
+      "id": "way/439118524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440702274",
+        "addr:city": "Μαρούσι",
+        "addr:housenumber": "82",
+        "addr:postcode": "15125",
+        "addr:street": "Κηφισίας",
+        "building": "yes",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8080731,
+              38.0478343
+            ],
+            [
+              23.808049,
+              38.0477433
+            ],
+            [
+              23.8083893,
+              38.0476874
+            ],
+            [
+              23.8084134,
+              38.0477784
+            ],
+            [
+              23.8082743,
+              38.0478012
+            ],
+            [
+              23.8080731,
+              38.0478343
+            ]
+          ]
+        ]
+      },
+      "id": "way/440702274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448767847",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "66",
+        "addr:postcode": "11471",
+        "addr:street": "Ασκληπιού",
+        "building": "yes",
+        "name": "Claws & Paws Pet Shop",
+        "opening_hours": "Mo-Fr 10:00-20:20, Sa 10:30-19:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.7409779,
+              37.9848626
+            ],
+            [
+              23.7408268,
+              37.9847902
+            ],
+            [
+              23.7409036,
+              37.9846914
+            ],
+            [
+              23.7409962,
+              37.984734
+            ],
+            [
+              23.7409839,
+              37.9847506
+            ],
+            [
+              23.7410425,
+              37.9847793
+            ],
+            [
+              23.7410249,
+              37.9848007
+            ],
+            [
+              23.7409779,
+              37.9848626
+            ]
+          ]
+        ]
+      },
+      "id": "way/448767847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/460847653",
+        "addr:city": "Ραφήνα",
+        "addr:housenumber": "52",
+        "addr:postcode": "19009",
+        "addr:street": "Αλ. Φλέμινγκ",
+        "building": "yes",
+        "name": "Pet Point",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su off",
+        "phone": "2294 022880",
+        "shop": "pet",
+        "website": "https://petpoint.gr/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.997101,
+              38.0190019
+            ],
+            [
+              23.9970989,
+              38.018769
+            ],
+            [
+              23.9973783,
+              38.0188265
+            ],
+            [
+              23.9973561,
+              38.0190517
+            ],
+            [
+              23.9972098,
+              38.0190517
+            ],
+            [
+              23.997101,
+              38.0190019
+            ]
+          ]
+        ]
+      },
+      "id": "way/460847653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/462942560",
+        "addr:city": "Γλυκά Νερά",
+        "addr:housenumber": "100",
+        "addr:postcode": "15354",
+        "addr:street": "Λαυρίου",
+        "building": "yes",
+        "name": "Pet Shop Happy Dog",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa 08:30-19:00; Su off",
+        "phone": "21 0604 0533",
+        "shop": "pet",
+        "website": "https://chinospet.gr/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.8473001,
+              37.9952265
+            ],
+            [
+              23.8473173,
+              37.9951691
+            ],
+            [
+              23.847528,
+              37.995178
+            ],
+            [
+              23.8474944,
+              37.9952957
+            ],
+            [
+              23.8473326,
+              37.9952791
+            ],
+            [
+              23.8473454,
+              37.9952322
+            ],
+            [
+              23.8473001,
+              37.9952265
+            ]
+          ]
+        ]
+      },
+      "id": "way/462942560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/651248626",
+        "addr:street": "Καραολή και Δημητρίου",
+        "building": "yes",
+        "name": "Zoo Planet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.5655022,
+              37.9636623
+            ],
+            [
+              23.5654928,
+              37.9635767
+            ],
+            [
+              23.5656238,
+              37.9635678
+            ],
+            [
+              23.5656332,
+              37.9636534
+            ],
+            [
+              23.5655022,
+              37.9636623
+            ]
+          ]
+        ]
+      },
+      "id": "way/651248626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/698839406",
+        "building": "retail",
+        "name": "Pet Planet",
+        "phone": "2286 092546",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.2843341,
+              36.7211864
+            ],
+            [
+              25.2843823,
+              36.7211487
+            ],
+            [
+              25.2843881,
+              36.7211534
+            ],
+            [
+              25.2844355,
+              36.7211164
+            ],
+            [
+              25.2845022,
+              36.7211712
+            ],
+            [
+              25.2844548,
+              36.7212083
+            ],
+            [
+              25.2844434,
+              36.7211989
+            ],
+            [
+              25.2843951,
+              36.7212366
+            ],
+            [
+              25.2843341,
+              36.7211864
+            ]
+          ]
+        ]
+      },
+      "id": "way/698839406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700196080",
+        "addr:housenumber": "3",
+        "addr:street": "Παναγούδας",
+        "building": "yes",
+        "name": "Hobby",
+        "opening_hours": "Mo, We, Sa 08:30-16:00; Tu, Th, Fr 08:30-21:00",
+        "phone": "+302510250595",
+        "shop": "pet",
+        "website": "https://www.hobbypetshop.gr/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.3898201,
+              40.9283359
+            ],
+            [
+              24.3898067,
+              40.9280239
+            ],
+            [
+              24.3899945,
+              40.9280198
+            ],
+            [
+              24.3900213,
+              40.9282974
+            ],
+            [
+              24.3898201,
+              40.9283359
+            ]
+          ]
+        ]
+      },
+      "id": "way/700196080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1619150654",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7195366,
+          38.0016031
+        ]
+      },
+      "id": "node/1619150654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1645427814",
+        "name": "Pawse",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6417076,
+          37.9339948
+        ]
+      },
+      "id": "node/1645427814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1760788160",
+        "addr:city": "Καλαμαριά",
+        "addr:country": "GR",
+        "addr:housenumber": "19",
+        "addr:postcode": "55132",
+        "addr:street": "Σμύρνης",
+        "email": "info@petnature.gr",
+        "facebook": "www.facebook.com/petnature.gr",
+        "name": "Pet Nature",
+        "opening_hours": "Mo-Fr 09:00-21:00, Sa 09:00-16:00",
+        "operator": "Στεφάνου Ρήγας",
+        "phone": "+30 2310 458582",
+        "shop": "pet",
+        "source": "geodata.gov.gr",
+        "website": "https://www.petnature.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.956506,
+          40.5728812
+        ]
+      },
+      "id": "node/1760788160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051131111",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "43",
+        "addr:street": "Ασκληπιού",
+        "name": "Ζωοφιλία",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7376572,
+          37.9833443
+        ]
+      },
+      "id": "node/2051131111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2467873463",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7197563,
+          38.0018963
+        ]
+      },
+      "id": "node/2467873463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2475272389",
+        "addr:city": "Αθήνα",
+        "addr:country": "GR",
+        "addr:housenumber": "15",
+        "addr:postcode": "10433",
+        "addr:street": "Ηπείρου",
+        "name": "Νιάου Γαβ",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7289227,
+          37.9901859
+        ]
+      },
+      "id": "node/2475272389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2482217699",
+        "addr:city": "Παπάγος",
+        "addr:country": "GR",
+        "addr:housenumber": "24",
+        "addr:postcode": "15669",
+        "addr:street": "Κύπρου",
+        "name": "PET SMILE",
+        "phone": "+30 2106511345",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7931967,
+          37.9898804
+        ]
+      },
+      "id": "node/2482217699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2491066920",
+        "addr:city": "Πεύκη",
+        "addr:housenumber": "14",
+        "addr:street": "Ειρήνης",
+        "email": "info@sweetbone.gr",
+        "facebook": "https://www.facebook.com/sweetbone.gr/",
+        "name": "Sweet bone",
+        "phone": "2108050424",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7947033,
+          38.0595649
+        ]
+      },
+      "id": "node/2491066920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709867895",
+        "name": "Animalius",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9287555,
+          40.6660523
+        ]
+      },
+      "id": "node/2709867895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2798579162",
+        "addr:city": "Αχαρνές",
+        "addr:housenumber": "320",
+        "addr:street": "Κωνσταντινουπόλεως",
+        "shop": "pet",
+        "survey:date": "2014-04-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7384759,
+          38.0789035
+        ]
+      },
+      "id": "node/2798579162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2844577806",
+        "name": "Ζαχαρόπουλος",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6149877,
+          38.4649235
+        ]
+      },
+      "id": "node/2844577806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2873580291",
+        "addr:city": "Αχαρνές",
+        "addr:housenumber": "32",
+        "addr:street": "Μητρομάρα",
+        "name": "Αναστασίου Ζωοτροφές",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7383708,
+          38.0859894
+        ]
+      },
+      "id": "node/2873580291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2873580293",
+        "addr:city": "Κηφησιά",
+        "addr:housenumber": "161",
+        "addr:street": "Τατοΐου",
+        "contact:phone": "+30 2108000549",
+        "name": "PetCity",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8129968,
+          38.1016208
+        ]
+      },
+      "id": "node/2873580293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2905767807",
+        "name": "Pluto",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7334377,
+          38.077889
+        ]
+      },
+      "id": "node/2905767807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2917643335",
+        "name": "Kentpo",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9127731,
+          39.4770805
+        ]
+      },
+      "id": "node/2917643335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2925080147",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8106828,
+          39.7898818
+        ]
+      },
+      "id": "node/2925080147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2948044339",
+        "addr:city": "Πειραιάς",
+        "addr:country": "GR",
+        "addr:housenumber": "2",
+        "addr:postcode": "18531",
+        "addr:street": "Ηρώων Πολυτεχνείου",
+        "name": "Pet City",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00",
+        "phone": "+30 210 4177408",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6490683,
+          37.9455113
+        ]
+      },
+      "id": "node/2948044339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2997996426",
+        "name": "Pet store",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1418848,
+          35.3382495
+        ]
+      },
+      "id": "node/2997996426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3026948749",
+        "addr:city": "Αχαρνές",
+        "addr:housenumber": "80",
+        "addr:street": "Καραμανλή",
+        "contact:phone": "+30 2102449485",
+        "contact:website": "www.pet4u.gr",
+        "name": "Pet4u",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7499143,
+          38.0957498
+        ]
+      },
+      "id": "node/3026948749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3035249080",
+        "name": "Άλθεξις",
+        "shop": "pet",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4654546,
+          37.3488842
+        ]
+      },
+      "id": "node/3035249080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3108915911",
+        "addr:city": "Ερμούπολη",
+        "addr:country": "GR",
+        "addr:housenumber": "44",
+        "addr:postcode": "84100",
+        "addr:street": "Ηρώων Πολυτεχνείου",
+        "name": "Το Μηλαράκι",
+        "phone": "2281082730",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93553,
+          37.4344069
+        ]
+      },
+      "id": "node/3108915911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3110830732",
+        "addr:city": "Ερμούπολη",
+        "addr:country": "GR",
+        "addr:housenumber": "88",
+        "addr:postcode": "84100",
+        "addr:street": "Ηρώων Πολυτεχνείου",
+        "name": "Ο Κήπος Και Τα Ζώα Μας",
+        "phone": "2281075048",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9352277,
+          37.431557
+        ]
+      },
+      "id": "node/3110830732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3114564512",
+        "phone": "2281306731",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9422119,
+          37.443969
+        ]
+      },
+      "id": "node/3114564512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3205822721",
+        "addr:city": "Ερμούπολη",
+        "addr:country": "GR",
+        "addr:postcode": "84100",
+        "addr:street": "Ηρώων Πολυτεχνείου",
+        "name": "Pet Bird",
+        "phone": "2281077513",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9349396,
+          37.4321422
+        ]
+      },
+      "id": "node/3205822721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3235185391",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9421566,
+          37.4441349
+        ]
+      },
+      "id": "node/3235185391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265973611",
+        "addr:housenumber": "145",
+        "addr:street": "Θρακομακεδόνων",
+        "name": "Smart Pets",
+        "parking": "yes",
+        "phone": "+30 211 4063722",
+        "shop": "pet",
+        "website": "https://smartdog.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7503486,
+          38.1197422
+        ]
+      },
+      "id": "node/3265973611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332458273",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.713041,
+          35.1872738
+        ]
+      },
+      "id": "node/3332458273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3386793963",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6432705,
+          37.9470682
+        ]
+      },
+      "id": "node/3386793963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3388644885",
+        "addr:city": "Πειραιάς",
+        "addr:country": "GR",
+        "addr:housenumber": "50",
+        "addr:postcode": "18532",
+        "addr:street": "Γρηγορίου Λαμπράκη",
+        "check_date": "2016-02-08",
+        "contact:website": "http://www.petcity.gr/",
+        "name": "Pet City",
+        "shop": "pet",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6535875,
+          37.945362
+        ]
+      },
+      "id": "node/3388644885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3388662275",
+        "addr:city": "Πειραιάς",
+        "addr:housenumber": "8",
+        "addr:street": "Ναυαρίνου",
+        "name": "My pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6435581,
+          37.9469022
+        ]
+      },
+      "id": "node/3388662275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3388662276",
+        "addr:city": "Πειραιάς",
+        "addr:housenumber": "13",
+        "addr:street": "Ναυαρίνου",
+        "name": "Le chef",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6437372,
+          37.9470661
+        ]
+      },
+      "id": "node/3388662276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3390071717",
+        "addr:city": "Πειραιάς",
+        "addr:country": "GR",
+        "addr:housenumber": "84",
+        "addr:postcode": "18535",
+        "addr:street": "Ηρώων Πολυτεχνείου",
+        "name": "CosmoZoo",
+        "phone": "+302104525900",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6439085,
+          37.9395794
+        ]
+      },
+      "id": "node/3390071717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3394403814",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9430202,
+          37.444003
+        ]
+      },
+      "id": "node/3394403814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3400237257",
+        "addr:city": "Ζωγράφος",
+        "addr:country": "GR",
+        "addr:housenumber": "19",
+        "addr:postcode": "15773",
+        "addr:street": "Στρατάρχου Αλέξανδρου Παπάγου",
+        "check_date": "2024-08-19",
+        "name": "Pet City",
+        "shop": "pet",
+        "website": "https://www.petcity.gr",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7641029,
+          37.9795565
+        ]
+      },
+      "id": "node/3400237257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452848421",
+        "addr:housenumber": "15",
+        "addr:street": "Ροβέρτου Γκάλλι",
+        "check_date": "2023-06-27",
+        "name": "Pet Shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7253997,
+          37.9688158
+        ]
+      },
+      "id": "node/3452848421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3476283530",
+        "addr:city": "Καλλιθέα",
+        "addr:street": "Λεωφόρος Ελευθερίου Βενιζέλου",
+        "name": "Pet City",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7068548,
+          37.9594888
+        ]
+      },
+      "id": "node/3476283530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3485499209",
+        "name": "Pet Planet",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7216782,
+          37.962816
+        ]
+      },
+      "id": "node/3485499209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3600398225",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2241586,
+          36.4362503
+        ]
+      },
+      "id": "node/3600398225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3627400023",
+        "addr:city": "Ηράκλειο",
+        "addr:street": "Θερίσσου",
+        "level": "0",
+        "shop": "pet",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1234977,
+          35.3345439
+        ]
+      },
+      "id": "node/3627400023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3642316833",
+        "addr:city": "Μυτιλήνη",
+        "addr:street": "Ερμού",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5577063,
+          39.1100948
+        ]
+      },
+      "id": "node/3642316833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3686462108",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "288",
+        "addr:street": "Ελευθερίου Βενιζέλου",
+        "name": "Pet4u",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6878424,
+          37.9472238
+        ]
+      },
+      "id": "node/3686462108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3694409547",
+        "addr:city": "Θήβα",
+        "name": "Η Φωλιά",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3164087,
+          38.3198491
+        ]
+      },
+      "id": "node/3694409547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3701144558",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9278714,
+          36.9594336
+        ]
+      },
+      "id": "node/3701144558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3718690204",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.709893,
+          37.9291764
+        ]
+      },
+      "id": "node/3718690204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3718691326",
+        "check_date": "2023-05-04",
+        "name": "Pet4u",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7095417,
+          37.9297463
+        ]
+      },
+      "id": "node/3718691326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3718693520",
+        "contact:website": "https://www.ifoliatoutsino.gr",
+        "name": "Η φωλιά του Τσίνο",
+        "name:el": "Η φωλιά του Τσίνο",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7100282,
+          37.9313769
+        ]
+      },
+      "id": "node/3718693520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3736992588",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "6",
+        "addr:street": "Γράμμου",
+        "name": "Get for pet",
+        "phone": "2110131592",
+        "shop": "pet",
+        "website": "https://getforpet.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6968234,
+          37.9598489
+        ]
+      },
+      "id": "node/3736992588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738890790",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9465025,
+          40.5784823
+        ]
+      },
+      "id": "node/3738890790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738896211",
+        "addr:city": "Θεσσαλονίκη",
+        "addr:housenumber": "32",
+        "addr:postcode": "54624",
+        "addr:street": "Βασιλέως Ηρακλείου",
+        "name": "Pets Boutique",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9420484,
+          40.6342738
+        ]
+      },
+      "id": "node/3738896211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738897597",
+        "addr:city": "Θεσσαλονίκη",
+        "addr:housenumber": "12",
+        "addr:postcode": "54621",
+        "addr:street": "Αγγελάκη",
+        "name": "Friends by Quiko Mega Pet",
+        "phone": "+30 2310 226060",
+        "shop": "pet",
+        "website": "https://www.quiko.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9535665,
+          40.6288939
+        ]
+      },
+      "id": "node/3738897597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738898990",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9755406,
+          40.565391
+        ]
+      },
+      "id": "node/3738898990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3738900025",
+        "check_date": "2024-02-02",
+        "name": "Unpugged",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9480529,
+          40.6321114
+        ]
+      },
+      "id": "node/3738900025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768671839",
+        "addr:city": "Πειραιάς",
+        "addr:country": "GR",
+        "addr:housenumber": "93",
+        "addr:postcode": "18541",
+        "addr:street": "Πειραιώς",
+        "name": "Pet City",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00",
+        "phone": "+30 210 4836990",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6629366,
+          37.9513678
+        ]
+      },
+      "id": "node/3768671839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768684043",
+        "name": "All4thepets",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7673027,
+          38.0475682
+        ]
+      },
+      "id": "node/3768684043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768684828",
+        "name": "Τροπικός",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7636995,
+          38.0488537
+        ]
+      },
+      "id": "node/3768684828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768685080",
+        "name": "Pet Supermarket",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6580255,
+          37.9498071
+        ]
+      },
+      "id": "node/3768685080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3784595816",
+        "name": "Tropical aquarium",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.642025,
+          37.9327666
+        ]
+      },
+      "id": "node/3784595816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3784600489",
+        "name": "Κιβωτός",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6269554,
+          37.9643468
+        ]
+      },
+      "id": "node/3784600489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786456691",
+        "name": "Το οικόσιτον",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7125466,
+          37.9882109
+        ]
+      },
+      "id": "node/3786456691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793358066",
+        "check_date": "2024-02-12",
+        "name": "Pet supermarket",
+        "shop": "pet",
+        "website": "https://www.petsupermarket.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6908672,
+          37.9265174
+        ]
+      },
+      "id": "node/3793358066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793368879",
+        "addr:city": "Αθήνα",
+        "addr:street": "Μεγάλου Αλεξάνδρου",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7153498,
+          37.982134
+        ]
+      },
+      "id": "node/3793368879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793382421",
+        "name": "Pet Nasos",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8249206,
+          37.8471205
+        ]
+      },
+      "id": "node/3793382421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793383068",
+        "name": "Pet City",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7866207,
+          37.8334899
+        ]
+      },
+      "id": "node/3793383068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793383085",
+        "name": "myPet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6317578,
+          37.9319323
+        ]
+      },
+      "id": "node/3793383085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3805465148",
+        "name": "Χρυσάφης Σταμούδης",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1496118,
+          41.1507103
+        ]
+      },
+      "id": "node/3805465148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957022805",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7099403,
+          37.9123266
+        ]
+      },
+      "id": "node/3957022805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3972612766",
+        "addr:city": "Καλλιθέα",
+        "addr:street": "Αχιλλέως",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6943328,
+          37.9475841
+        ]
+      },
+      "id": "node/3972612766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008262284",
+        "addr:city": "Πειραιάς",
+        "addr:country": "GR",
+        "addr:housenumber": "44-46",
+        "addr:postcode": "18539",
+        "addr:street": "Φιλικής Εταιρείας",
+        "name": "Σπίτι των ζώων",
+        "phone": "+30 21 04530381",
+        "shop": "pet",
+        "website": "http://www.spititonzoon.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6350169,
+          37.9305481
+        ]
+      },
+      "id": "node/4008262284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4026986842",
+        "name": "Ιατρείο Μικρών Ζώων",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1484879,
+          41.1497767
+        ]
+      },
+      "id": "node/4026986842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050811833",
+        "addr:street": "Φιλίππου",
+        "name": "Pet Station",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1533298,
+          41.1474642
+        ]
+      },
+      "id": "node/4050811833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4056298540",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "93",
+        "addr:street": "Αχιλλέως",
+        "name": "Pretty Pets",
+        "note": "pet grooming and accessories",
+        "phone": "+30 21 0941 0169",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6902607,
+          37.9504298
+        ]
+      },
+      "id": "node/4056298540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4061846349",
+        "addr:city": "Πειραιάς",
+        "addr:housenumber": "1",
+        "addr:street": "Αλέξανδρου Παπαναστασίου",
+        "note": "dog groomer",
+        "phone": "+30 21 0412 5469",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6536004,
+          37.9368198
+        ]
+      },
+      "id": "node/4061846349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4114008892",
+        "name": "Λέσχη Γάτας του Αιγαίου",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7927242,
+          38.026118
+        ]
+      },
+      "id": "node/4114008892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4219027645",
+        "addr:city": "Καλλιθέα",
+        "addr:housenumber": "46",
+        "addr:street": "Ελευθερίου Βενιζέλου",
+        "name": "Pet4U",
+        "name:el": "Pet4U",
+        "name:en": "Pet4U",
+        "operator": "Pet4U",
+        "phone": "+30 21 0957 0010",
+        "shop": "pet",
+        "website": "https://www.homestores.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7122489,
+          37.9624304
+        ]
+      },
+      "id": "node/4219027645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228577017",
+        "addr:housenumber": "56",
+        "addr:street": "Καπετάν Γκόνου",
+        "name": "υθι",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4514062,
+          40.9447362
+        ]
+      },
+      "id": "node/4228577017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228577145",
+        "addr:housenumber": "42",
+        "addr:postcode": "61300",
+        "addr:street": "Καπετάν Γκόνου",
+        "name": "Αγροδυναμική Γουμένισσας",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4515686,
+          40.9441441
+        ]
+      },
+      "id": "node/4228577145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232503592",
+        "addr:housenumber": "7",
+        "addr:postcode": "55132",
+        "addr:street": "Αιγυπτιάδη",
+        "email": "north@marklin.gr",
+        "opening_hours": "Tu, Th-Fr 18:00-21:00; Sa 09:00-14:00",
+        "phone": "2310495060",
+        "shop": "pet",
+        "website": "https://www.marklin.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9685654,
+          40.5723676
+        ]
+      },
+      "id": "node/4232503592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294301467",
+        "name": "Pet city",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6437669,
+          37.9389424
+        ]
+      },
+      "id": "node/4294301467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4311007669",
+        "name": "Ο Αντώνης",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7242295,
+          37.9633115
+        ]
+      },
+      "id": "node/4311007669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4321202838",
+        "addr:city": "Αργυρούπολη",
+        "addr:country": "GR",
+        "addr:housenumber": "91",
+        "addr:postcode": "16451",
+        "addr:street": "Κύπρου",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7528669,
+          37.907922
+        ]
+      },
+      "id": "node/4321202838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4327114944",
+        "name": "Αφοί Παναγιώτου",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4396303,
+          37.6773412
+        ]
+      },
+      "id": "node/4327114944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4333776799",
+        "addr:housenumber": "72",
+        "addr:street": "Ηρακλείου",
+        "check_date:opening_hours": "2024-05-31",
+        "name": "Pet City",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00",
+        "phone": "210 2221311",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7403144,
+          38.0230525
+        ]
+      },
+      "id": "node/4333776799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4350321534",
+        "name": "Royal canin",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.698365,
+          38.0089991
+        ]
+      },
+      "id": "node/4350321534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359192463",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6172477,
+          39.987274
+        ]
+      },
+      "id": "node/4359192463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361813516",
+        "description": "food for animals",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4115975,
+          40.0491369
+        ]
+      },
+      "id": "node/4361813516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367634091",
+        "addr:city": "Ίλιον",
+        "addr:country": "GR",
+        "addr:housenumber": "62",
+        "addr:postcode": "13121",
+        "addr:street": "Αγίου Γεωργίου",
+        "email": "info@nextsteam.gr",
+        "name": "Nextsteam ηλεκτρονικό τσιγάρο",
+        "opening_hours": "Tu, Th-Fr 09:00-14:30, 17:30-20:30; Mo, We, Sa 09:00-15:00,",
+        "phone": "2105132021",
+        "shop": "pet",
+        "website": "https://nextsteam.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6913548,
+          38.0293852
+        ]
+      },
+      "id": "node/4367634091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384274355",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "8",
+        "addr:street": "Φιλολάου",
+        "check_date": "2022-11-12",
+        "name": "Pet City",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7538893,
+          37.9677108
+        ]
+      },
+      "id": "node/4384274355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384276210",
+        "name": "Boneapetit",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7565672,
+          37.9668425
+        ]
+      },
+      "id": "node/4384276210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384291057",
+        "addr:city": "Καισαριανή",
+        "addr:housenumber": "22",
+        "addr:street": "Ναυπακτίας",
+        "name": "Skopeto",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7581705,
+          37.9654829
+        ]
+      },
+      "id": "node/4384291057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384293931",
+        "name": "Παράδεισος",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7681607,
+          37.9886034
+        ]
+      },
+      "id": "node/4384293931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384294604",
+        "name": "Reptilianostra.com",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7643748,
+          37.9862827
+        ]
+      },
+      "id": "node/4384294604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384295170",
+        "name": "Pet Experts",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7642965,
+          37.9862502
+        ]
+      },
+      "id": "node/4384295170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384304796",
+        "addr:housenumber": "6",
+        "addr:street": "Ούλωφ Πάλμε",
+        "check_date": "2024-08-12",
+        "name": "Pet Shop Rott",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7609031,
+          37.9753008
+        ]
+      },
+      "id": "node/4384304796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4387193390",
+        "name": "Μεταφορικη \"ΝΕΑ ΕΘΝΙΚΗ\"",
+        "name:el": "Μεταφορικη \"ΝΕΑ ΕΘΝΙΚΗ\"",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.848724,
+          40.667335
+        ]
+      },
+      "id": "node/4387193390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394189544",
+        "name": "Κιβωτός",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.761319,
+          37.9560074
+        ]
+      },
+      "id": "node/4394189544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398729824",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "74-76",
+        "addr:street": "Ηρακλείου",
+        "name": "PETOCCINO",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7404145,
+          38.0231997
+        ]
+      },
+      "id": "node/4398729824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428191996",
+        "addr:housenumber": "30",
+        "addr:postcode": "56429",
+        "addr:street": "Μεγάλου Αλεξάνδρου",
+        "email": "cyrpin@gmail.com",
+        "name": "εμπορικο αλουμινιου",
+        "name:el": "εμπορικο αλουμινιου",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "2310682665",
+        "shop": "pet",
+        "website": "http://sitahouse.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9538078,
+          40.6884352
+        ]
+      },
+      "id": "node/4428191996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428192091",
+        "addr:housenumber": "21",
+        "addr:postcode": "56429",
+        "addr:street": "Αγίου Γεωργίου",
+        "email": "cyrpin@gmail.com",
+        "name": "εμπορικο αλουμινιου",
+        "name:el": "εμπορικο αλουμινιου",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "2310682665",
+        "shop": "pet",
+        "website": "http://sitahouse.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9539982,
+          40.6880154
+        ]
+      },
+      "id": "node/4428192091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4438027529",
+        "addr:city": "Δημοτική Ενότητα Νέας Φιλαδέλφειας",
+        "addr:street": "Δεκελείας",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7360658,
+          38.0312197
+        ]
+      },
+      "id": "node/4438027529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448797407",
+        "addr:city": "Νέο Ψυχικό",
+        "addr:housenumber": "184",
+        "addr:street": "Ολυμπιονικών",
+        "name": "The pet refuge",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7725703,
+          38.0007823
+        ]
+      },
+      "id": "node/4448797407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4456111693",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "12",
+        "addr:postcode": "601 34",
+        "addr:street": "Νικολάου Δίκα",
+        "name": "Zoo Trofika",
+        "operator": "Καλαϊτζίδης Βασίλειος",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5168395,
+          40.2741941
+        ]
+      },
+      "id": "node/4456111693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4496528489",
+        "name": "Κοσμάς Σιάτιστα",
+        "name:el": "Κοσμάς Σιάτιστα",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5484408,
+          40.2645006
+        ]
+      },
+      "id": "node/4496528489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4531720023",
+        "addr:city": "Παιανία",
+        "addr:housenumber": "147",
+        "addr:postcode": "19002",
+        "addr:street": "Λαυρίου",
+        "name": "Pappas Pet Center",
+        "phone": "+30 2106645785",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8605121,
+          37.9536578
+        ]
+      },
+      "id": "node/4531720023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561128121",
+        "name": "My Pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6492978,
+          37.9448955
+        ]
+      },
+      "id": "node/4561128121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561924308",
+        "name": "All pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7554741,
+          37.9019628
+        ]
+      },
+      "id": "node/4561924308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4565300334",
+        "name": "Happy Pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9883363,
+          40.6002282
+        ]
+      },
+      "id": "node/4565300334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4574083191",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3221923,
+          38.7637077
+        ]
+      },
+      "id": "node/4574083191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4592422891",
+        "addr:city": "Αθήνα",
+        "addr:country": "GR",
+        "addr:housenumber": "28",
+        "addr:postcode": "10555",
+        "addr:street": "Ηφαίστου",
+        "name": "ΠΛΕΓΑΣ ΧΑΡΗΣ",
+        "phone": "+302103222560",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7239438,
+          37.9761928
+        ]
+      },
+      "id": "node/4592422891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4607513993",
+        "addr:housenumber": "41",
+        "addr:street": "Συρακουσών",
+        "check_date": "2024-06-13",
+        "email": "mypetitepetshop@gmail.com",
+        "facebook": "https://el-gr.facebook.com/MyPetitePetShop/",
+        "name": "My petite pet shop",
+        "opening_hours": "Tu,Th,Fr 09:00-15:00,18:00-21:00; Mo,Sa 09:00-15:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "2155052088",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7485002,
+          38.0243461
+        ]
+      },
+      "id": "node/4607513993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4616816690",
+        "name": "Σπίτι",
+        "name:el": "Σπίτι",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3786509,
+          37.0671037
+        ]
+      },
+      "id": "node/4616816690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4648684089",
+        "addr:housenumber": "8",
+        "addr:postcode": "85300",
+        "addr:street": "25 martiou",
+        "email": "animalplanet.kos@hotmail.com",
+        "name": "Pet Shop animal planet",
+        "name:en": "pet shop animal planet",
+        "opening_hours": "Mo-Sa 08:30-21:30",
+        "phone": "2242029635",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2859275,
+          36.8943338
+        ]
+      },
+      "id": "node/4648684089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4653833639",
+        "name": "The pet gallery",
+        "shop": "pet",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8036712,
+          37.8337261
+        ]
+      },
+      "id": "node/4653833639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4659956300",
+        "description": "εξοπλισμός σκαφών",
+        "name": "Ο κόσμος των πουλιών",
+        "note": "ADD SPESIFIC TYPE OF SHOP :)",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6457181,
+          37.9373241
+        ]
+      },
+      "id": "node/4659956300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4710332906",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "1",
+        "addr:postcode": "601 34",
+        "addr:street": "Περγάμου",
+        "fixme": "Find name and confirm address",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5128908,
+          40.2700859
+        ]
+      },
+      "id": "node/4710332906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4726327812",
+        "addr:housenumber": "46",
+        "addr:street": "Εθνικής Αντιστάσεως",
+        "level": "0",
+        "name": "Boneapetit",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.756717,
+          37.968604
+        ]
+      },
+      "id": "node/4726327812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4727269801",
+        "name": "Pet4u",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8197277,
+          38.0140872
+        ]
+      },
+      "id": "node/4727269801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729241248",
+        "addr:city": "Λάρισα",
+        "addr:housenumber": "5",
+        "addr:postcode": "41222",
+        "addr:street": "Καλλιθέας",
+        "contact:facebook": "https://www.facebook.com/ofilia.petshop/",
+        "mobile": "+30 6973200342",
+        "name": "Οφηλία",
+        "opening_hours": "Mo, We, Fr 09:30-14:00, 17:30-21:00 ; Tu, Th, Sa 09:00-14:00; PH off",
+        "operator": "Γκουγκλιάνας Αθανάσιος",
+        "phone": "+30 241 025 9066",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4119178,
+          39.6407724
+        ]
+      },
+      "id": "node/4729241248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4742974921",
+        "addr:city": "Μαρούσι",
+        "addr:country": "GR",
+        "addr:housenumber": "8",
+        "addr:postcode": "15124",
+        "addr:street": "Πλαστήρα",
+        "name": "The mindtrap",
+        "shop": "pet",
+        "website": "https://maroussi.themindtrap.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.806729,
+          38.0552205
+        ]
+      },
+      "id": "node/4742974921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4743343829",
+        "name": "Φτερωτές Μουσούδες",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6341525,
+          37.9807468
+        ]
+      },
+      "id": "node/4743343829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4751286427",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7933399,
+          38.2962821
+        ]
+      },
+      "id": "node/4751286427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755523004",
+        "addr:city": "Αθήνα",
+        "addr:country": "GR",
+        "addr:housenumber": "37",
+        "addr:postcode": "11525",
+        "addr:street": "Κατεχάκη",
+        "addr:unit": "Β",
+        "name": "E-pets",
+        "opening_hours": "Mo,We,Sa 09:30-15:30; Tu,Th,Fr 09:30-15:30,17:30-20:30",
+        "operator": "https://epets.gr/",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7733807,
+          37.9947421
+        ]
+      },
+      "id": "node/4755523004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776470489",
+        "addr:city": "Ζωγράφος",
+        "addr:country": "GR",
+        "addr:housenumber": "49",
+        "addr:postcode": "15771",
+        "addr:street": "Γρηγορίου Αυξεντίου",
+        "check_date": "2024-07-31",
+        "name": "Σπηλιώτης",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7631777,
+          37.9757252
+        ]
+      },
+      "id": "node/4776470489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4778975941",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4083036,
+          39.6379418
+        ]
+      },
+      "id": "node/4778975941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4780012362",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "19",
+        "addr:postcode": "601 32",
+        "addr:street": "Ανδρούτσου",
+        "name": "Pawz Pet Salon",
+        "operator": "Τσιλακόπουλος Χρήστος",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5032758,
+          40.2710276
+        ]
+      },
+      "id": "node/4780012362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4780809397",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "9",
+        "addr:postcode": "601 34",
+        "addr:street": "Λεωνίδα Ιασωνίδη",
+        "name": "My Max Pet Shop",
+        "operator": "Τοπαλίδης Γρηγόριος και Σία ΟΕ",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5225676,
+          40.2680829
+        ]
+      },
+      "id": "node/4780809397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4780915935",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0666679,
+          37.0573111
+        ]
+      },
+      "id": "node/4780915935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789029774",
+        "name": "Paradise",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7351314,
+          38.0061123
+        ]
+      },
+      "id": "node/4789029774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789365703",
+        "name": "Animal World",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4140117,
+          39.6379281
+        ]
+      },
+      "id": "node/4789365703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789380359",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4139511,
+          39.6343842
+        ]
+      },
+      "id": "node/4789380359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791926499",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7434017,
+          39.6740082
+        ]
+      },
+      "id": "node/4791926499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4793799277",
+        "addr:city": "Αργυρούπολη",
+        "addr:country": "GR",
+        "addr:housenumber": "21",
+        "addr:postcode": "16451",
+        "addr:street": "Αργυρουπόλεως",
+        "name": "Pet City",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00",
+        "phone": "+30 210 9954005",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7540226,
+          37.9082065
+        ]
+      },
+      "id": "node/4793799277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794284057",
+        "level": "0",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4347827,
+          37.0714397
+        ]
+      },
+      "id": "node/4794284057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806671488",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "118",
+        "addr:postcode": "601 34",
+        "addr:street": "Νικολάου Πλαστήρα",
+        "name": "Zoo Trofika",
+        "operator": "Καλαϊτζίδης Βασίλειος",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5134817,
+          40.2837161
+        ]
+      },
+      "id": "node/4806671488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806671492",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "29",
+        "addr:postcode": "601 33",
+        "addr:street": "Φαρμάκη",
+        "name": "Pet Center",
+        "operator": "Αγγέλης Γεώργιος",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4996337,
+          40.2797661
+        ]
+      },
+      "id": "node/4806671492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806671493",
+        "addr:city": "Κατερίνη",
+        "addr:housenumber": "1",
+        "addr:postcode": "601 34",
+        "addr:street": "19ης Μαΐου",
+        "name": "Dogger",
+        "operator": "Χατζής Στέφανος",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5234128,
+          40.2693023
+        ]
+      },
+      "id": "node/4806671493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4855305743",
+        "addr:city": "Αθήνα",
+        "addr:country": "GR",
+        "addr:housenumber": "50",
+        "addr:postcode": "10551",
+        "addr:street": "Αθηνάς",
+        "name": "Mr. Zoo",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7274848,
+          37.9814269
+        ]
+      },
+      "id": "node/4855305743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4880498960",
+        "addr:city": "Πειραιάς",
+        "addr:housenumber": "61",
+        "addr:postcode": "18545",
+        "addr:street": "Μεθώνης",
+        "name": "Υδάτινος κόσμος",
+        "opening_hours": "Mo,We 09:00-20:00; Tu,Th,Fr 09:00-21:00; Sa 09:00-17:00",
+        "phone": "+302104629700",
+        "shop": "pet",
+        "website": "http://www.ydatinos-kosmos.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6385654,
+          37.9531704
+        ]
+      },
+      "id": "node/4880498960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922730213",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6689521,
+          37.9474917
+        ]
+      },
+      "id": "node/4922730213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4930787343",
+        "addr:city": "Διόνυσος",
+        "name": "The Pet Mansion",
+        "phone": "2162021081",
+        "shop": "pet",
+        "website": "https://thepetmansion.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8605364,
+          38.1317586
+        ]
+      },
+      "id": "node/4930787343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4948537066",
+        "addr:city": "Άνω Λιόσια",
+        "addr:country": "GR",
+        "addr:housenumber": "110",
+        "addr:postcode": "13341",
+        "addr:street": "Φυλής",
+        "email": "lubi@hotmail.gr",
+        "name": "Lubi είδη ζώων",
+        "name:el": "Lubi animal center petshop",
+        "name:en": "Lubi animal center petshop",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "2102470311",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7049265,
+          38.0757074
+        ]
+      },
+      "id": "node/4948537066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4969717175",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9699537,
+          40.6093458
+        ]
+      },
+      "id": "node/4969717175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4980954901",
+        "addr:city": "Νικήτη",
+        "addr:municipality": "Σιθωνία",
+        "addr:postcode": "63088",
+        "addr:region": "Κεντρική Μακεδονία",
+        "name": "Pet Family Nikiti",
+        "phone": "6981879063",
+        "shop": "pet",
+        "website": "https://www.facebook.com/PetFamilyNikiti/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6691664,
+          40.2228227
+        ]
+      },
+      "id": "node/4980954901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5029689224",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "81",
+        "addr:street": "Φιλολάου",
+        "name": "For Pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7483714,
+          37.9641998
+        ]
+      },
+      "id": "node/5029689224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5030853469",
+        "name": "Zoo Love",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9314963,
+          37.9410494
+        ]
+      },
+      "id": "node/5030853469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5034017779",
+        "name": "Κωτσιάκος",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9293316,
+          37.9387204
+        ]
+      },
+      "id": "node/5034017779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5067459865",
+        "addr:city": "Μαρούσι",
+        "addr:housenumber": "42",
+        "addr:street": "Περικλέους",
+        "name": "Pet mall",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7984306,
+          38.0593372
+        ]
+      },
+      "id": "node/5067459865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5076007152",
+        "name": "Μαρία Pet Grooming",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5899434,
+          38.4606136
+        ]
+      },
+      "id": "node/5076007152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5076007153",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.59423,
+          38.4595326
+        ]
+      },
+      "id": "node/5076007153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5146723531",
+        "addr:city": "Πολύγυρος",
+        "addr:postcode": "63100",
+        "addr:street": "Ασκληπιού",
+        "name": "Pet Shop \"Champion\"",
+        "phone": "+30 23710 23706",
+        "shop": "pet",
+        "website": "https://www.facebook.com/fasitis77/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4449822,
+          40.3817979
+        ]
+      },
+      "id": "node/5146723531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5164893736",
+        "addr:city": "Γαλάτσι",
+        "addr:housenumber": "95",
+        "addr:street": "Φωκά Ιωάννου",
+        "name": "Lucky Pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7505741,
+          38.0222816
+        ]
+      },
+      "id": "node/5164893736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5167421565",
+        "name": "Barkers and Co",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7618828,
+          37.9944379
+        ]
+      },
+      "id": "node/5167421565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228463665",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7466626,
+          37.9797635
+        ]
+      },
+      "id": "node/5228463665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5244526946",
+        "check_date:opening_hours": "2022-08-13",
+        "name": "Animal Planet",
+        "name:en": "Animal Planet gr.",
+        "opening_hours:signed": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "no",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5453919,
+          41.0888309
+        ]
+      },
+      "id": "node/5244526946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5245219157",
+        "name": "Almapet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0137776,
+          40.5389621
+        ]
+      },
+      "id": "node/5245219157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273034927",
+        "name": "Είδη Pet Shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9187673,
+          40.8536131
+        ]
+      },
+      "id": "node/5273034927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5290596771",
+        "addr:city": "Δημοτική Ενότητα Νίκαιας",
+        "addr:street": "Πέτρου Ράλλη",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6557012,
+          37.9716536
+        ]
+      },
+      "id": "node/5290596771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5327536023",
+        "name": "Pet farm",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5715552,
+          39.075312
+        ]
+      },
+      "id": "node/5327536023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5403525367",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5583053,
+          41.0919956
+        ]
+      },
+      "id": "node/5403525367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5415826664",
+        "addr:housenumber": "184",
+        "addr:street": "Πατησίων",
+        "check_date": "2024-08-22",
+        "name": "Pet Needs",
+        "phone": "+302108623575",
+        "shop": "pet",
+        "website": "https://petneeds.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7345569,
+          38.0036777
+        ]
+      },
+      "id": "node/5415826664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5415850201",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "294Β",
+        "addr:street": "Πατησίων",
+        "check_date": "2024-06-18",
+        "name": "Pet Family",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7354477,
+          38.0135165
+        ]
+      },
+      "id": "node/5415850201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5465708805",
+        "addr:city": "Περιστέρι",
+        "addr:housenumber": "247",
+        "addr:street": "Θηβών",
+        "name": "Party Animals",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6936091,
+          38.020849
+        ]
+      },
+      "id": "node/5465708805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466974169",
+        "name": "Pet city",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8015384,
+          38.0175399
+        ]
+      },
+      "id": "node/5466974169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5483687203",
+        "check_date": "2024-08-14",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6458846,
+          37.9307684
+        ]
+      },
+      "id": "node/5483687203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5485214483",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8043352,
+          38.0658191
+        ]
+      },
+      "id": "node/5485214483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5509615460",
+        "addr:city": "Νέο Ηράκλειο",
+        "addr:housenumber": "431",
+        "addr:street": "Ηρακλείου",
+        "name": "Pet House",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7699116,
+          38.0557323
+        ]
+      },
+      "id": "node/5509615460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5521186052",
+        "addr:city": "Γαλάτσι",
+        "addr:street": "Γαλατσίου",
+        "name": "Ο κόσμος των πουλιών",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7527153,
+          38.0132716
+        ]
+      },
+      "id": "node/5521186052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535665725",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9194775,
+          39.3656011
+        ]
+      },
+      "id": "node/5535665725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5540263221",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.916865,
+          39.3579673
+        ]
+      },
+      "id": "node/5540263221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5556134825",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "239",
+        "addr:street": "Πατησίων",
+        "check_date": "2024-09-03",
+        "name": "Ο κόσμος των πουλιών",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7349174,
+          38.0093142
+        ]
+      },
+      "id": "node/5556134825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5581502415",
+        "addr:city": "Ζωγράφου",
+        "addr:housenumber": "30Α",
+        "addr:street": "Γρηγορίου Κουσίδη",
+        "check_date": "2024-08-15",
+        "name": "Σπηλιώτη",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7777959,
+          37.9743116
+        ]
+      },
+      "id": "node/5581502415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5642578390",
+        "addr:housenumber": "72",
+        "addr:street": "Θεαγένους Χαρίση",
+        "name": "Κομμωτήριο Σκύλων",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9618788,
+          40.6164004
+        ]
+      },
+      "id": "node/5642578390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5652397345",
+        "addr:housenumber": "141",
+        "addr:street": "Πραξιτέλους",
+        "description:en": "Sells pet food, accessories, grooming, not animals",
+        "name": "Pet Star",
+        "pet_grooming": "yes",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6482756,
+          37.9415801
+        ]
+      },
+      "id": "node/5652397345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5711674354",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0010517,
+          36.3625931
+        ]
+      },
+      "id": "node/5711674354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5748628685",
+        "name": "Global Pet Foods",
+        "operator": "Kidonis",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8624692,
+          38.3266485
+        ]
+      },
+      "id": "node/5748628685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5766323735",
+        "amenity": "veterinary",
+        "name": "Skyros Vet Center",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5661512,
+          38.9050956
+        ]
+      },
+      "id": "node/5766323735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5783485853",
+        "name:en": "My Pet Shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3589017,
+          38.1471243
+        ]
+      },
+      "id": "node/5783485853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5787670805",
+        "addr:city": "Ίλιον",
+        "addr:street": "Θηβών",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6979578,
+          38.0270384
+        ]
+      },
+      "id": "node/5787670805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5808526054",
+        "name:en": "Almapet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9543889,
+          40.6165521
+        ]
+      },
+      "id": "node/5808526054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810021328",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4884601,
+          37.7723484
+        ]
+      },
+      "id": "node/5810021328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5812793987",
+        "addr:street": "Εθνικής Αντιστάσεως",
+        "check_date": "2024-01-31",
+        "name": "Pet City",
+        "shop": "pet",
+        "source": "Kaart Ground Survey 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9603288,
+          40.5892327
+        ]
+      },
+      "id": "node/5812793987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5824395614",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8253765,
+          38.0358682
+        ]
+      },
+      "id": "node/5824395614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5835173100",
+        "name": "Pet city",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7892111,
+          38.0019067
+        ]
+      },
+      "id": "node/5835173100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839869785",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6593565,
+          37.9649576
+        ]
+      },
+      "id": "node/5839869785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5841224200",
+        "addr:city": "Άλιμος",
+        "addr:country": "GR",
+        "addr:housenumber": "7",
+        "addr:postcode": "17455",
+        "addr:street": "Επονιτών",
+        "check_date": "2023-11-21",
+        "description": "Official Distributor Julius-K9® Products",
+        "email": "info@juliusk9greece.com",
+        "name": "Julius-K9® Greece",
+        "opening_hours": "\"on appointment\"",
+        "operator": "K-9 Hellas",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+30 213 0421181 or +30 6970584571",
+        "shop": "pet",
+        "website": "https://www.juliusk9greece.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7130712,
+          37.913016
+        ]
+      },
+      "id": "node/5841224200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5860551758",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.103274,
+          39.4407566
+        ]
+      },
+      "id": "node/5860551758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5891717520",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3349847,
+          37.4490137
+        ]
+      },
+      "id": "node/5891717520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5905827218",
+        "name": "Φωλιά",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5059244,
+          35.3664543
+        ]
+      },
+      "id": "node/5905827218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5975991870",
+        "name": "pet stars",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9693436,
+          40.6180569
+        ]
+      },
+      "id": "node/5975991870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5975991876",
+        "name": "Το Ζωικό Βασίλειο",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5753528,
+          40.9920797
+        ]
+      },
+      "id": "node/5975991876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6076241983",
+        "name": "ζωόπολις",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7427542,
+          37.9781234
+        ]
+      },
+      "id": "node/6076241983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124903592",
+        "name": "HAPPY PAWS",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5550835,
+          39.1058245
+        ]
+      },
+      "id": "node/6124903592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6133115230",
+        "addr:street": "Μαραθώνος",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8783215,
+          38.0038816
+        ]
+      },
+      "id": "node/6133115230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6185713985",
+        "name": "Pet City",
+        "shop": "pet",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7568007,
+          37.8742688
+        ]
+      },
+      "id": "node/6185713985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6208830963",
+        "addr:housenumber": "176",
+        "addr:street": "Μεσογείων",
+        "name": "The Creatures",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7875534,
+          38.0008112
+        ]
+      },
+      "id": "node/6208830963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6243198252",
+        "addr:city": "Νέα Ιωνία",
+        "addr:housenumber": "4",
+        "addr:postcode": "14232",
+        "addr:street": "Κολοκοτρώνη",
+        "email": "info@pawshop.gr",
+        "name": "Pawshop",
+        "opening_hours": "Mo,We 09:00-17:00; Tu,Th,Fr 09:00-14:00,17:00-21:00; Sa 09:00-15:00",
+        "phone": "2100102455",
+        "shop": "pet",
+        "website": "https://pawshop.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7453907,
+          38.0319873
+        ]
+      },
+      "id": "node/6243198252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6243727414",
+        "opening_hours": "Mo-Sa 08:30-15:00, Mo-Fr 17:30-21:00",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7568053,
+          38.033686
+        ]
+      },
+      "id": "node/6243727414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6296249881",
+        "addr:city": "Άνω Λιόσια",
+        "addr:country": "GR",
+        "addr:postcode": "13341",
+        "addr:street": "Πίνδου",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7087073,
+          38.0873465
+        ]
+      },
+      "id": "node/6296249881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298689721",
+        "addr:city": "Βούλα",
+        "addr:country": "GR",
+        "addr:housenumber": "102-104",
+        "addr:postcode": "16673",
+        "addr:street": "Βασιλέως Παύλου",
+        "name": "PetWorkz",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7683285,
+          37.8385218
+        ]
+      },
+      "id": "node/6298689721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6311912704",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7433892,
+          38.0285786
+        ]
+      },
+      "id": "node/6311912704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6357629242",
+        "addr:city": "Ίλιον",
+        "addr:housenumber": "49",
+        "addr:street": "Πετρουπόλεως",
+        "name": "Likeapet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6964515,
+          38.0323669
+        ]
+      },
+      "id": "node/6357629242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6388654441",
+        "name": "My Pet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7479357,
+          37.9443213
+        ]
+      },
+      "id": "node/6388654441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6398263323",
+        "addr:city": "Άγιος Δημήτριος",
+        "addr:housenumber": "7",
+        "addr:street": "Παπαναστασίου",
+        "name": "Pet4u",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7366747,
+          37.9488049
+        ]
+      },
+      "id": "node/6398263323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6464527869",
+        "name": "Το Στέκι Των Ζώων",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.700996,
+          38.0886859
+        ]
+      },
+      "id": "node/6464527869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6466865799",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7139987,
+          38.059838
+        ]
+      },
+      "id": "node/6466865799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6469862979",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5556612,
+          39.1062205
+        ]
+      },
+      "id": "node/6469862979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6531897884",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1014981,
+          35.2066086
+        ]
+      },
+      "id": "node/6531897884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6738853953",
+        "addr:city": "Περιστέρι",
+        "addr:housenumber": "31",
+        "addr:street": "Παύλου Μελά",
+        "facebook": "https://www.facebook.com/Champion1Pet/?hc_ref=ARToGIIATYMw-6INWg3J4n1hXQIL-KFa_OWe_4MACZJnJkikWdriXRGmcs1jq1qwVeI&__xts__[0]=68.ARC34fz0_8KXCopeT3Nfk6CWtA4NUM9jSKRiah38xJw8RI1bsTnRWKIURlkDb1zWLS6n4NIlq6RmQz1Pws9-ZgcbkgRbuRozfVJqwUh4FfhZlbZ2Gvg3iWxnE7b6LNW",
+        "name": "Champion Pet",
+        "phone": "2105729993",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7000541,
+          38.0051808
+        ]
+      },
+      "id": "node/6738853953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6790300942",
+        "addr:city": "Νέα Ιωνία",
+        "addr:housenumber": "117-119",
+        "addr:street": "Βυζαντίου",
+        "name": "Hungry Pets",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7694051,
+          38.0358849
+        ]
+      },
+      "id": "node/6790300942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6791407298",
+        "name": "Pet City",
+        "shop": "pet",
+        "website": "https://petcity.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7485612,
+          38.0142007
+        ]
+      },
+      "id": "node/6791407298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831856056",
+        "addr:city": "Δημοτική Ενότητα Ελληνικού",
+        "addr:housenumber": "56",
+        "addr:street": "Δημητρίου Γούναρη",
+        "name": "Mickey's Mouse",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7609261,
+          37.8900031
+        ]
+      },
+      "id": "node/6831856056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831906611",
+        "addr:city": "Γλυφάδα",
+        "addr:housenumber": "107",
+        "addr:street": "Δημητρίου Γούναρη",
+        "name": "Pets Stop",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.762895,
+          37.8831361
+        ]
+      },
+      "id": "node/6831906611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6896167565",
+        "name": "Pet Store",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7974281,
+          38.022233
+        ]
+      },
+      "id": "node/6896167565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6906814840",
+        "addr:city": "Γλυφάδα",
+        "addr:housenumber": "190",
+        "addr:street": "Δημητρίου Γούναρη",
+        "email": "info@happypet.gr",
+        "fax": "2109624286",
+        "name": "Happy Pet",
+        "phone": "2109642122",
+        "shop": "pet",
+        "website": "https://happypet.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7646381,
+          37.8709432
+        ]
+      },
+      "id": "node/6906814840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915618621",
+        "addr:city": "Νέα Χαλκηδόνα",
+        "addr:country": "GR",
+        "addr:housenumber": "471",
+        "addr:street": "Αχαρνών",
+        "email": "info@pet4u.gr",
+        "facebook": "https://www.facebook.com/Pet4u.gr/",
+        "name": "Pet4u",
+        "phone": "2102406230",
+        "shop": "pet",
+        "website": "https://www.pet4u.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7302229,
+          38.0286434
+        ]
+      },
+      "id": "node/6915618621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932787126",
+        "addr:city": "Πετρούπολη",
+        "addr:country": "GR",
+        "addr:housenumber": "100",
+        "addr:postcode": "13231",
+        "addr:street": "Περικλέους",
+        "name": "Μίνωας",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.676305,
+          38.0363053
+        ]
+      },
+      "id": "node/6932787126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6944769956",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "129",
+        "addr:street": "Τριών Ιεραρχών",
+        "name": "Petspace",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7107259,
+          37.9688789
+        ]
+      },
+      "id": "node/6944769956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6954983225",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7008801,
+          37.9540487
+        ]
+      },
+      "id": "node/6954983225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6993448424",
+        "name": "Pet Me!",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7382399,
+          37.9959128
+        ]
+      },
+      "id": "node/6993448424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7122945668",
+        "name": "PetClick",
+        "phone": "2106838100",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8103331,
+          38.0179753
+        ]
+      },
+      "id": "node/7122945668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7126157635",
+        "name": "Friends",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9430388,
+          40.6349743
+        ]
+      },
+      "id": "node/7126157635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7158673616",
+        "addr:city": "Ίλιον",
+        "addr:street": "Ιλίου",
+        "name": "Pet City",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7119688,
+          38.0314353
+        ]
+      },
+      "id": "node/7158673616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7158764839",
+        "addr:city": "Ίλιον",
+        "addr:street": "Πετρουπόλεως",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6943305,
+          38.0360829
+        ]
+      },
+      "id": "node/7158764839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7200028670",
+        "addr:city": "Αθήνα",
+        "addr:street": "Αγίας Ζώνης",
+        "name": "Pet Corner",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7375927,
+          38.002848
+        ]
+      },
+      "id": "node/7200028670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7201776573",
+        "name": "Amigos",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7662567,
+          37.9729253
+        ]
+      },
+      "id": "node/7201776573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7282641828",
+        "addr:city": "Γαλάτσι",
+        "addr:country": "GR",
+        "addr:housenumber": "112",
+        "addr:postcode": "11146",
+        "addr:street": "Γαλατσίου",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7524664,
+          38.0129327
+        ]
+      },
+      "id": "node/7282641828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7307362263",
+        "addr:city": "Περιστέρι",
+        "addr:housenumber": "243",
+        "addr:street": "Θηβών",
+        "name": "Party animals",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6935283,
+          38.020524
+        ]
+      },
+      "id": "node/7307362263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7438965664",
+        "name": "Bird market",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7273763,
+          37.9952519
+        ]
+      },
+      "id": "node/7438965664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7465145782",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "4",
+        "addr:street": "Κονδυλάκη",
+        "name": "Pet Stock",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7422159,
+          38.0199556
+        ]
+      },
+      "id": "node/7465145782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7467405036",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4722115,
+          35.3674204
+        ]
+      },
+      "id": "node/7467405036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7609108368",
+        "addr:city": "Νέα Ιωνία",
+        "addr:housenumber": "3",
+        "addr:street": "Ιφιγενείας",
+        "name": "Ζωοφιλία",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7589355,
+          38.0470566
+        ]
+      },
+      "id": "node/7609108368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7632119948",
+        "addr:city": "Θεσσαλονίκη",
+        "addr:housenumber": "56",
+        "addr:postcode": "54453",
+        "addr:street": "Αλεξάνδρου Παπαναστασίου",
+        "name": "Friends by Quiko Mega Pet",
+        "shop": "pet",
+        "website": "https://www.quiko.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9640596,
+          40.6119898
+        ]
+      },
+      "id": "node/7632119948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7651377431",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "55",
+        "addr:street": "Πανόρμου",
+        "name": "Zoolandia",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7597198,
+          37.991672
+        ]
+      },
+      "id": "node/7651377431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7660530497",
+        "addr:city": "Γεράνη",
+        "addr:postcode": "73100",
+        "addr:street": "Κισσάμου - Χανίων",
+        "name": "Pet Shop Pharmacy",
+        "operator": "ΜΑΝΙΑΔΑΚΗΣ ΗΛΙΑΣ",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "2821084775",
+        "phone:mobile": "6944273130",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8788657,
+          35.5168073
+        ]
+      },
+      "id": "node/7660530497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7692598286",
+        "name": "Δ",
+        "name:el": "Δολωματα",
+        "name:en": "Baits",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6874571,
+          40.6661248
+        ]
+      },
+      "id": "node/7692598286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7726901459",
+        "addr:city": "Νέο Ηράκλειο",
+        "addr:housenumber": "396",
+        "addr:street": "Ηρακλείου",
+        "name": "Κτηνιατρική",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7656951,
+          38.0511392
+        ]
+      },
+      "id": "node/7726901459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7733965425",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0029304,
+          37.8873565
+        ]
+      },
+      "id": "node/7733965425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7776606047",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7862871,
+          37.8338505
+        ]
+      },
+      "id": "node/7776606047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7814556885",
+        "shop": "pet",
+        "survey:date": "2020-08-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9313626,
+          37.8348886
+        ]
+      },
+      "id": "node/7814556885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856719092",
+        "addr:city": "Χαλκίδα",
+        "addr:country": "GR",
+        "addr:postcode": "34100",
+        "addr:street": "Ορέστη Μακρή",
+        "name": "Pet City",
+        "phone": "22210",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6162651,
+          38.4692617
+        ]
+      },
+      "id": "node/7856719092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856719305",
+        "addr:city": "Χαλκίδα",
+        "addr:country": "GR",
+        "addr:housenumber": "34",
+        "addr:postcode": "34100",
+        "addr:street": "28ης Οκτωβρίου",
+        "name": "Αμαζόνιος",
+        "phone": "2221089812",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6028473,
+          38.460547
+        ]
+      },
+      "id": "node/7856719305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856719407",
+        "addr:city": "Χαλκίδα",
+        "addr:country": "GR",
+        "addr:postcode": "34100",
+        "addr:street": "Ελευθερίου Βενιζέλου",
+        "name": "Pet",
+        "name:el": "Pet club",
+        "phone": "22210",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5963418,
+          38.4610691
+        ]
+      },
+      "id": "node/7856719407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856720086",
+        "addr:city": "Χαλκίδα",
+        "addr:country": "GR",
+        "addr:postcode": "34100",
+        "addr:street": "Ελευθερίου Βενιζέλου",
+        "name": "Pet City",
+        "phone": "22210",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5961611,
+          38.4609433
+        ]
+      },
+      "id": "node/7856720086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7890353911",
+        "addr:city": "Αγία Παρασκευή",
+        "addr:housenumber": "455",
+        "addr:street": "Μεσογείων",
+        "check_date": "2024-09-29",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8234871,
+          38.0139434
+        ]
+      },
+      "id": "node/7890353911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7947799610",
+        "addr:city": "Νέα Ιωνία",
+        "addr:housenumber": "112",
+        "addr:postcode": "14233",
+        "addr:street": "Μηδείας",
+        "name": "Two white dogs",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.766047,
+          38.0337209
+        ]
+      },
+      "id": "node/7947799610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8082385052",
+        "addr:housenumber": "28",
+        "addr:street": "Δημητρίου Γούναρη",
+        "name": "The pet gallery",
+        "phone": "+30 2104171202",
+        "service": "pet_grooming",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6453904,
+          37.9467093
+        ]
+      },
+      "id": "node/8082385052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8165502441",
+        "name": "Petfamely",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7042431,
+          37.9656724
+        ]
+      },
+      "id": "node/8165502441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213900391",
+        "name": "Say Woof",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.751525,
+          38.0159732
+        ]
+      },
+      "id": "node/8213900391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8215010715",
+        "name": "www.abbyspaws.gr",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7301797,
+          38.2373976
+        ]
+      },
+      "id": "node/8215010715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8233760159",
+        "name": "Feed Me - Pet Shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9740552,
+          40.6087671
+        ]
+      },
+      "id": "node/8233760159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8289577720",
+        "addr:city": "Αγία Παρασκευή",
+        "addr:country": "GR",
+        "addr:housenumber": "368",
+        "addr:postcode": "15341",
+        "addr:street": "Μεσογείων",
+        "name": "Κτηνιατρική Αγορά",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+302106390496",
+        "shop": "pet",
+        "website": "https://www.vetmarket.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8138987,
+          38.0117108
+        ]
+      },
+      "id": "node/8289577720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8601653180",
+        "addr:housenumber": "121",
+        "addr:postcode": "54250",
+        "addr:street": "Αλεξάνδρου Παπαναστασίου",
+        "name": "PET HOUSE - klouvi.gr",
+        "shop": "pet",
+        "website": "http://www.klouvi.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.968706,
+          40.6047387
+        ]
+      },
+      "id": "node/8601653180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8614105813",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "42",
+        "addr:street": "Ταϋγέτου",
+        "check_date": "2024-07-10",
+        "email": "info@happyfriendspetshop.gr",
+        "facebook": "https://www.facebook.com/HappyFriendsPetShopGR/",
+        "name": "Happy friends",
+        "phone": "2102013883",
+        "shop": "pet",
+        "website": "https://happyfriendspetshop.gr/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7391161,
+          38.0110243
+        ]
+      },
+      "id": "node/8614105813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8629939322",
+        "name": "Kirki's House Pet Shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9601877,
+          40.5985896
+        ]
+      },
+      "id": "node/8629939322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8655146164",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "274",
+        "addr:street": "Πατησίων",
+        "name": "Pat",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7353969,
+          38.0120103
+        ]
+      },
+      "id": "node/8655146164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8661137684",
+        "addr:city": "Ζωγράφου",
+        "addr:housenumber": "52",
+        "addr:street": "Παπαδιαμαντοπούλου",
+        "name": "Σπηλιωτης",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7586806,
+          37.9800371
+        ]
+      },
+      "id": "node/8661137684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8684933028",
+        "name": "Pet Panic",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7629282,
+          37.9928477
+        ]
+      },
+      "id": "node/8684933028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8731704824",
+        "name": "Happy dog",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6292584,
+          38.3818081
+        ]
+      },
+      "id": "node/8731704824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8748673518",
+        "addr:housenumber": "27",
+        "addr:postcode": "12133",
+        "addr:street": "Στυλιανού Γονατά",
+        "email": "cc@gatoskilo.gr",
+        "name": "Gatoskilo",
+        "name:en": "Gatoskilo",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00",
+        "phone": "2107002580",
+        "shop": "pet",
+        "website": "http://gatoskilo.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7158249,
+          38.0122116
+        ]
+      },
+      "id": "node/8748673518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8783709402",
+        "addr:housenumber": "19",
+        "addr:postcode": "55236",
+        "addr:street": "Κομνηνών",
+        "name": "Friends by Quiko Mega Pet",
+        "name:en": "Friends by Quiko Mega Pet",
+        "shop": "pet",
+        "website": "https://www.quiko.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0356571,
+          40.5912895
+        ]
+      },
+      "id": "node/8783709402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8786551564",
+        "name": "Kitt & Pupp",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7743664,
+          38.0027457
+        ]
+      },
+      "id": "node/8786551564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8805338819",
+        "name": "Puppyland",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.73677,
+          38.2450391
+        ]
+      },
+      "id": "node/8805338819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806495729",
+        "name": "ΚΑΡΕΛΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7450435,
+          38.2402302
+        ]
+      },
+      "id": "node/8806495729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806539113",
+        "name": "Pet Smart Center",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7349381,
+          38.2421104
+        ]
+      },
+      "id": "node/8806539113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8828024146",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "14",
+        "addr:street": "Ανδρέα Μουστοξύδη",
+        "name": "Cats & Dogs",
+        "phone": "2106438661",
+        "shop": "pet",
+        "website": "https://www.catsanddogs.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7406892,
+          37.9915813
+        ]
+      },
+      "id": "node/8828024146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8837024806",
+        "addr:city": "Περιστέρι",
+        "addr:housenumber": "171",
+        "addr:street": "Θηβών",
+        "name": "Pet City",
+        "phone": "+302105732004",
+        "shop": "pet",
+        "website": "https://www.petcity.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6898511,
+          38.0141695
+        ]
+      },
+      "id": "node/8837024806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8898666283",
+        "addr:city": "Μαρούσι",
+        "addr:housenumber": "90",
+        "addr:street": "Κηφισίας",
+        "name": "Pet City",
+        "phone": "2106146130",
+        "shop": "pet",
+        "website": "https://www.petcity.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8083024,
+          38.0483464
+        ]
+      },
+      "id": "node/8898666283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8910150189",
+        "addr:city": "Μαρούσι",
+        "addr:housenumber": "11",
+        "addr:postcode": "15124",
+        "addr:street": "Χατζηαντωνίου",
+        "email": "info@petmoustaches.com",
+        "name": "Moustaches",
+        "phone": "2108066522",
+        "shop": "pet",
+        "website": "https://petmoustaches.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8066288,
+          38.053592
+        ]
+      },
+      "id": "node/8910150189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8910416617",
+        "addr:housenumber": "5 - 7",
+        "addr:postcode": "34100",
+        "addr:street": "Ωριώνος",
+        "name": "Pet Shop \"Ζαχαρόπουλος\"",
+        "phone": "2221074200",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5960239,
+          38.4616962
+        ]
+      },
+      "id": "node/8910416617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8946382017",
+        "name:en": "George's",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1605201,
+          37.2569066
+        ]
+      },
+      "id": "node/8946382017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9029733033",
+        "name": "Pet’s Hug",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9929625,
+          40.6083628
+        ]
+      },
+      "id": "node/9029733033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9043721317",
+        "addr:city": "Χαλκίδα",
+        "addr:housenumber": "41",
+        "addr:postcode": "34109",
+        "addr:street": "Φαβιέρου",
+        "name": "Dog N Roll (Κομμωτήριο ζώων)",
+        "name:en": "Dog N Roll",
+        "opening_hours": "Tu, Th 09:00-14:00; We, Fr-Sa 09:00-16:00",
+        "phone": "2221401710 , 6973175505",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5954132,
+          38.46079
+        ]
+      },
+      "id": "node/9043721317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9054249870",
+        "name": "Pet-it",
+        "shop": "pet",
+        "website": "https://pet-it.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7436207,
+          37.9618106
+        ]
+      },
+      "id": "node/9054249870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9078528456",
+        "name": "Pet4u",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7644744,
+          37.9855442
+        ]
+      },
+      "id": "node/9078528456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9124939917",
+        "addr:housenumber": "4A",
+        "addr:postcode": "14576",
+        "addr:street": "Μητροπολίτου Κυδονίων Γρηγορίου",
+        "name": "Nicolaou",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8840395,
+          38.1027197
+        ]
+      },
+      "id": "node/9124939917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9321381632",
+        "addr:housenumber": "105",
+        "addr:postcode": "54453",
+        "addr:street": "Αλεξάνδρου Παπαναστασίου",
+        "name": "Almapet",
+        "name:en": "Almapet",
+        "shop": "pet",
+        "website": "https://www.almapet.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9678635,
+          40.6061974
+        ]
+      },
+      "id": "node/9321381632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9325127220",
+        "name": "Cat + Dog",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6476624,
+          37.9398997
+        ]
+      },
+      "id": "node/9325127220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9335392375",
+        "addr:postcode": "57001",
+        "addr:street": "Θεσσαλονίκης - Περαίας",
+        "name": "Almapet",
+        "opening_hours": "Mo-Fr 09:00-21:00, Sa 09:00-20:00",
+        "phone": "+30 23920 72598",
+        "shop": "pet",
+        "website": "https://www.almapet.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9666801,
+          40.5007829
+        ]
+      },
+      "id": "node/9335392375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355822575",
+        "addr:city": "Νέα Ιωνία",
+        "addr:street": "Βυζαντίου",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7664556,
+          38.0372114
+        ]
+      },
+      "id": "node/9355822575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9358395772",
+        "name": "Pet puzzle",
+        "opening_hours": "Mo 09:00-18:00; Tu 09:00-15:00; Tu 17-20:30; We 09:00-18; Th 09:00-15; Th 17:00-20:30; Fr 09:00-15; Fr 17:00-20:30; Sa 09:00-15:00",
+        "phone": "+302102515591",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7508734,
+          38.0323142
+        ]
+      },
+      "id": "node/9358395772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9373825084",
+        "addr:city": "Νέα Ιωνία",
+        "addr:housenumber": "94",
+        "addr:street": "Καποδιστρίου",
+        "name": "animania",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7762496,
+          38.0319334
+        ]
+      },
+      "id": "node/9373825084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9382531162",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "97",
+        "addr:postcode": "11744",
+        "addr:street": "Ηλία Ηλιού",
+        "check_date": "2023-04-10",
+        "check_date:opening_hours": "2024-04-16",
+        "name": "Pet City",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su off",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "2110136865",
+        "shop": "pet",
+        "website": "https://www.petcity.gr",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7257141,
+          37.9558271
+        ]
+      },
+      "id": "node/9382531162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9402166767",
+        "name": "Mamadog.gr",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.758483,
+          38.0365416
+        ]
+      },
+      "id": "node/9402166767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9507725322",
+        "name": "Ο κόσμος των πουλιών",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7424336,
+          37.9896759
+        ]
+      },
+      "id": "node/9507725322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9510878182",
+        "name:signed": "no",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7353575,
+          38.0179075
+        ]
+      },
+      "id": "node/9510878182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556790063",
+        "name": "PetSmart",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6353532,
+          37.9338865
+        ]
+      },
+      "id": "node/9556790063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9637498602",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "396",
+        "addr:street": "Αχαρνών",
+        "name": "Ο κόσμος των πουλιών",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.729559,
+          38.0200782
+        ]
+      },
+      "id": "node/9637498602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9651160105",
+        "addr:city": "Ηράκλειο",
+        "addr:housenumber": "145",
+        "addr:street": "Ιωνίας Λ.",
+        "name": "Pets On Parade",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.133537,
+          35.3242846
+        ]
+      },
+      "id": "node/9651160105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9677741417",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7094588,
+          39.7790609
+        ]
+      },
+      "id": "node/9677741417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9682601154",
+        "addr:city": "Νέα Χαλκηδόνα",
+        "addr:housenumber": "36",
+        "addr:street": "Αγίων Αναργύρων",
+        "name": "Pet o' clock",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7285443,
+          38.0259193
+        ]
+      },
+      "id": "node/9682601154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9730775984",
+        "name": "Pet shop Zootrophes",
+        "shop": "pet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5014283,
+          39.1761186
+        ]
+      },
+      "id": "node/9730775984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9730815397",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9331449,
+          37.9354328
+        ]
+      },
+      "id": "node/9730815397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9738101463",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.552199,
+          39.1106737
+        ]
+      },
+      "id": "node/9738101463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9751483026",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4327278,
+          37.0642791
+        ]
+      },
+      "id": "node/9751483026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9764085249",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "23",
+        "addr:street": "Κοδριγκτώνος",
+        "check_date": "2024-10-01",
+        "name": "Reza",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7311644,
+          37.9956698
+        ]
+      },
+      "id": "node/9764085249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765664534",
+        "addr:city": "Ελληνικό",
+        "addr:housenumber": "62",
+        "addr:street": "Ιασωνίδου",
+        "name": "Pet Area",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7579148,
+          37.8922613
+        ]
+      },
+      "id": "node/9765664534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776835162",
+        "name": "Αμαζονας",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.349575,
+          37.7943617
+        ]
+      },
+      "id": "node/9776835162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779189775",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6433005,
+          37.9687403
+        ]
+      },
+      "id": "node/9779189775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9831369417",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7223802,
+          38.0235432
+        ]
+      },
+      "id": "node/9831369417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9886623321",
+        "name:en": "Pet Shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.331058,
+          37.435005
+        ]
+      },
+      "id": "node/9886623321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887401318",
+        "name:en": "Mykonos Happy Tails",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3233318,
+          37.4252226
+        ]
+      },
+      "id": "node/9887401318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9987640245",
+        "name": "Pet star",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6490294,
+          37.9413498
+        ]
+      },
+      "id": "node/9987640245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10057251491",
+        "addr:city": "Δημοτική Ενότητα Πεύκων",
+        "addr:housenumber": "25",
+        "addr:postcode": "57010",
+        "addr:street": "Παπανικολάου",
+        "name": "ALMAPET",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9764748,
+          40.6594996
+        ]
+      },
+      "id": "node/10057251491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081249414",
+        "name": "Pet Shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7650911,
+          38.3261689
+        ]
+      },
+      "id": "node/10081249414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10087844517",
+        "name:en": "Amazonios",
+        "shop": "pet",
+        "website": "https://amazonios.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9512655,
+          40.6007455
+        ]
+      },
+      "id": "node/10087844517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10093920517",
+        "name": "Michalis",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.836939,
+          36.6150592
+        ]
+      },
+      "id": "node/10093920517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10095550122",
+        "name": "Pet Vogue",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8151336,
+          38.0732431
+        ]
+      },
+      "id": "node/10095550122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117183401",
+        "name": "ZOO PARK",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.400881,
+          41.1176763
+        ]
+      },
+      "id": "node/10117183401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10118341874",
+        "name": "Pet land",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7365513,
+          37.9975469
+        ]
+      },
+      "id": "node/10118341874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10121575770",
+        "name": "Fat cat",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5519079,
+          39.110987
+        ]
+      },
+      "id": "node/10121575770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127919574",
+        "name": "Pet Factory",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6493188,
+          37.9635796
+        ]
+      },
+      "id": "node/10127919574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10137482465",
+        "addr:city": "Παλαιό Φάληρο",
+        "addr:postcode": "17563",
+        "addr:street": "Ελευθερίου Βενιζέλου",
+        "check_date": "2022-11-13",
+        "name": "Pet4u",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7098875,
+          37.9291459
+        ]
+      },
+      "id": "node/10137482465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10138431034",
+        "addr:housenumber": "376",
+        "addr:street": "Πατησίων",
+        "check_date": "2024-06-18",
+        "name": "Pet City",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00",
+        "shop": "pet",
+        "website": "https://petcity.gr",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7360796,
+          38.0223706
+        ]
+      },
+      "id": "node/10138431034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10156855250",
+        "name": "Manos",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7538094,
+          37.8604277
+        ]
+      },
+      "id": "node/10156855250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10157370672",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6557689,
+          37.9716597
+        ]
+      },
+      "id": "node/10157370672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10168589422",
+        "addr:housenumber": "3Α",
+        "addr:postcode": "18453",
+        "addr:street": "Κορίνθου",
+        "name": "House of Pets",
+        "opening_hours": "Mo, We 09:00-20:00; Tu, Th, Fr 09:00-21:00; Sa 09:00-16:00",
+        "phone": "+302104931828",
+        "shop": "pet",
+        "website": "https://petshop.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6419712,
+          37.9764981
+        ]
+      },
+      "id": "node/10168589422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10173889018",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6585386,
+          37.9796273
+        ]
+      },
+      "id": "node/10173889018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10174068307",
+        "name": "Animas",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7428013,
+          37.9864207
+        ]
+      },
+      "id": "node/10174068307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207012257",
+        "addr:city": "Κορυδαλλός",
+        "addr:housenumber": "1",
+        "addr:postcode": "18120",
+        "addr:street": "Παλαιολόγου",
+        "name": "MyPet",
+        "phone": "+302104977218",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6540008,
+          37.9763988
+        ]
+      },
+      "id": "node/10207012257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207012258",
+        "addr:city": "Νίκαια",
+        "addr:housenumber": "50",
+        "addr:postcode": "18450",
+        "addr:street": "Τζαβέλλα",
+        "name": "MyPet",
+        "phone": "+302155053754",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6400854,
+          37.9645318
+        ]
+      },
+      "id": "node/10207012258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10225707357",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7429977,
+          38.0002731
+        ]
+      },
+      "id": "node/10225707357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10243905905",
+        "addr:housenumber": "23",
+        "addr:street": "Κωνσταντινουπόλεως",
+        "name": "Zoo Family",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7469905,
+          37.9531635
+        ]
+      },
+      "id": "node/10243905905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10246140783",
+        "addr:housenumber": "142",
+        "name": "Quiko Mega Pet",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa 08:30-20:00",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9874663,
+          40.5418124
+        ]
+      },
+      "id": "node/10246140783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10284398837",
+        "addr:city": "Αθήνα",
+        "addr:street": "Ευγενίου Καραβία",
+        "name": "Pet's choice",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7315488,
+          38.0124698
+        ]
+      },
+      "id": "node/10284398837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10582700531",
+        "fixme": "approximate location",
+        "name": "PetWorld",
+        "phone": "+302107782981",
+        "shop": "pet",
+        "source": "https://petworld.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7674007,
+          37.9810979
+        ]
+      },
+      "id": "node/10582700531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10700596076",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "83-85",
+        "addr:street": "Αγίας Ζώνης",
+        "name": "katoikidio.gr",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-15:00",
+        "phone": "2117901111",
+        "shop": "pet",
+        "website": "https://eshopkatoikidio.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7376727,
+          38.0079612
+        ]
+      },
+      "id": "node/10700596076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10742181578",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7630261,
+          37.9883721
+        ]
+      },
+      "id": "node/10742181578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10746844255",
+        "name": "Τουϊτυ",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6459816,
+          37.9473648
+        ]
+      },
+      "id": "node/10746844255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10747233555",
+        "name": "Amazonios",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4294283,
+          39.6343594
+        ]
+      },
+      "id": "node/10747233555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10750294451",
+        "addr:city": "Λάρισα",
+        "addr:housenumber": "36",
+        "addr:street": "Ρούσβελτ",
+        "name": "Ενυδρείο",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4174339,
+          39.6341421
+        ]
+      },
+      "id": "node/10750294451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10751524177",
+        "addr:housenumber": "74",
+        "addr:street": "23ης Οκτωβρίου",
+        "name": "Lucky & Mailo",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.425512,
+          39.6364413
+        ]
+      },
+      "id": "node/10751524177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10764662753",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7018703,
+          37.9313629
+        ]
+      },
+      "id": "node/10764662753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10775214338",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7133815,
+          37.9403363
+        ]
+      },
+      "id": "node/10775214338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10787671962",
+        "check_date": "2023-04-10",
+        "name": "Barf Market",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6984564,
+          37.9325912
+        ]
+      },
+      "id": "node/10787671962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10797101208",
+        "addr:city": "Άγιοι Ανάργυροι",
+        "addr:street": "Δημοκρατίας",
+        "name": "Η αποθήκη",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7271993,
+          38.0427289
+        ]
+      },
+      "id": "node/10797101208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10839148195",
+        "addr:housenumber": "145",
+        "addr:postcode": "54249",
+        "addr:street": "Κωνσταντίνου Καραμανλή",
+        "name": "Pet City",
+        "shop": "pet",
+        "website": "https://www.petcity.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9644555,
+          40.6028156
+        ]
+      },
+      "id": "node/10839148195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10855514805",
+        "addr:housenumber": "28-30",
+        "addr:postcode": "85300",
+        "addr:street": "Γρηγορίου Ε",
+        "name": "Pet-Shop Animal Planet",
+        "phone": "2242029635",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2884229,
+          36.8905125
+        ]
+      },
+      "id": "node/10855514805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873544769",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "5",
+        "addr:street": "Τοσίτσα",
+        "name": "Pet Corner",
+        "opening_hours": "Mo,We,Sa 09:30-15:00; Tu,Th,Fr 09:30-15:00,18:00-20:30",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7341577,
+          37.9881936
+        ]
+      },
+      "id": "node/10873544769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10883100923",
+        "name": "Αμαζόνιος",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4207096,
+          39.6392965
+        ]
+      },
+      "id": "node/10883100923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10886480392",
+        "name": "Pet Hugs",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa 09:00-16:00",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9766928,
+          37.750749
+        ]
+      },
+      "id": "node/10886480392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10911033583",
+        "name": "Γαβ & Γουβ",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4328754,
+          39.6502987
+        ]
+      },
+      "id": "node/10911033583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10931996030",
+        "addr:city": "Ζωγράφου",
+        "addr:housenumber": "11",
+        "addr:street": "Δαμασίππου",
+        "name": "The woofy project",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7604551,
+          37.9796374
+        ]
+      },
+      "id": "node/10931996030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10949221160",
+        "name": "Pet friendly corner",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.591979,
+          38.4618307
+        ]
+      },
+      "id": "node/10949221160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10967382042",
+        "name": "Pet & friends",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7134951,
+          37.9407052
+        ]
+      },
+      "id": "node/10967382042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11026889782",
+        "addr:city": "Ζωγράφου",
+        "addr:housenumber": "66",
+        "addr:street": "Γεωργίου Ζωγράφου",
+        "check_date": "2024-05-29",
+        "name": "Pet land",
+        "shop": "pet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7744964,
+          37.9734789
+        ]
+      },
+      "id": "node/11026889782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11051454565",
+        "check_date": "2023-07-17",
+        "name": "PrimaPet",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9543824,
+          40.6183417
+        ]
+      },
+      "id": "node/11051454565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11076952069",
+        "addr:city": "Πετρούπολη",
+        "addr:housenumber": "172",
+        "addr:street": "25ης Μαρτίου",
+        "name": "pet4u",
+        "phone": "2105028326",
+        "shop": "pet",
+        "website": "https://www.pet4u.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6932622,
+          38.0367006
+        ]
+      },
+      "id": "node/11076952069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11084003309",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3169049,
+          40.2515743
+        ]
+      },
+      "id": "node/11084003309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11093991686",
+        "name": "Πατούσες",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0599106,
+          39.8751592
+        ]
+      },
+      "id": "node/11093991686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11146176905",
+        "name": "Furrytail",
+        "shop": "pet",
+        "survey:date": "2023-08-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0115131,
+          35.5125947
+        ]
+      },
+      "id": "node/11146176905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11181080990",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.487204,
+          38.1702839
+        ]
+      },
+      "id": "node/11181080990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11229070368",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "13",
+        "addr:street": "Αλεξάνδρας",
+        "name": "Pets & friends",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7388249,
+          37.990799
+        ]
+      },
+      "id": "node/11229070368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11262709581",
+        "addr:city": "Γαλάτσι",
+        "addr:housenumber": "46",
+        "addr:postcode": "11147",
+        "addr:street": "Βεΐκου",
+        "name": "Pet panic",
+        "phone": "2102220324",
+        "shop": "pet",
+        "website": "https://petpanic.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7557918,
+          38.017826
+        ]
+      },
+      "id": "node/11262709581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11373093463",
+        "addr:city": "Δημοτική Ενότητα Κορινθίων",
+        "addr:housenumber": "87",
+        "addr:postcode": "20100",
+        "addr:street": "Σωκράτους Κολιάτσου",
+        "description": "HAPPY MUZZLE",
+        "name": "HAPPY MUZZLE",
+        "operator": "HAPPY MUZZLE",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9284123,
+          37.9407871
+        ]
+      },
+      "id": "node/11373093463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11374081219",
+        "addr:floor": "G",
+        "addr:housenumber": "31",
+        "addr:street": "Αγίου Αλεξάνδρου",
+        "check_date": "2023-11-24",
+        "name": "PetWorkz",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6937436,
+          37.928535
+        ]
+      },
+      "id": "node/11374081219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11384716951",
+        "addr:city": "Κερατσίνι",
+        "addr:housenumber": "88",
+        "addr:street": "Δημοκρατίας",
+        "name": "The zoo shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6207236,
+          37.9589804
+        ]
+      },
+      "id": "node/11384716951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11401863433",
+        "addr:city": "Ζωγράφου",
+        "addr:housenumber": "21",
+        "addr:street": "Γρηγορίου Αυξεντίου",
+        "facebook": "https://www.facebook.com/petpoint.rafina/",
+        "name": "Pet Point",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7606397,
+          37.9765816
+        ]
+      },
+      "id": "node/11401863433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11454084223",
+        "addr:city": "Κερατσίνι",
+        "addr:housenumber": "61",
+        "addr:street": "Δημοκρατίας",
+        "name": "Pet City",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00",
+        "phone": "2104316289",
+        "shop": "pet",
+        "website": "https://www.petcity.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6228665,
+          37.9585506
+        ]
+      },
+      "id": "node/11454084223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11489099831",
+        "addr:city": "Καισαριανή",
+        "addr:housenumber": "11",
+        "addr:street": "Φορμίωνος",
+        "facebook": "https://www.facebook.com/p/Petcare-100046395855934/",
+        "name": "Petcare",
+        "phone": "2107240455",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7508721,
+          37.9713998
+        ]
+      },
+      "id": "node/11489099831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11577308027",
+        "name": "Candy Pet shop",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3065374,
+          35.3280551
+        ]
+      },
+      "id": "node/11577308027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11640396672",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6560765,
+          37.9730172
+        ]
+      },
+      "id": "node/11640396672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11645242860",
+        "check_date": "2024-02-20",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7501164,
+          37.9883628
+        ]
+      },
+      "id": "node/11645242860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11645242864",
+        "check_date": "2024-02-20",
+        "name": "Petshowp",
+        "shop": "pet",
+        "website": "https://www.petshowp.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7504867,
+          37.9873891
+        ]
+      },
+      "id": "node/11645242864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11698661607",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "65",
+        "addr:street": "Βεΐκου",
+        "contact:instagram": "https://www.instagram.com/mypet_koukaki/",
+        "email": "mypetkoukaki@gmail.com",
+        "facebook": "https://www.facebook.com/mypetkoukaki",
+        "name": "My Pet",
+        "phone": "2114221942",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7243284,
+          37.9651123
+        ]
+      },
+      "id": "node/11698661607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11730403283",
+        "name": "Pet Stores Pastrikos",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2113308,
+          36.4163875
+        ]
+      },
+      "id": "node/11730403283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11739514516",
+        "addr:city": "Αθήνα",
+        "addr:housenumber": "97",
+        "addr:street": "Αλεξάνδρας",
+        "name": "Pet Panic",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.748609,
+          37.9891202
+        ]
+      },
+      "id": "node/11739514516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11750290899",
+        "name": "Ο Μύλος της Πυλαίας",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9855439,
+          40.5966948
+        ]
+      },
+      "id": "node/11750290899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11753829668",
+        "check_date": "2024-03-22",
+        "name": "Platinum",
+        "shop": "pet",
+        "website": "https://www.platinumhellas.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8009756,
+          38.0088008
+        ]
+      },
+      "id": "node/11753829668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11824524074",
+        "addr:city": "Αμπελόκηποι",
+        "addr:postcode": "561 21",
+        "addr:street": "Γιάννη Χαλκίδη",
+        "name": "Pet in Space",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9224748,
+          40.6500896
+        ]
+      },
+      "id": "node/11824524074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11880774754",
+        "addr:housenumber": "11",
+        "addr:street": "Απλωταριάς",
+        "check_date": "2024-05-05",
+        "name:el": "Κιβωτος",
+        "phone": "+30 2271 040337",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1355861,
+          38.3697907
+        ]
+      },
+      "id": "node/11880774754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11889992775",
+        "name": "Pet Star",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7108249,
+          37.9459008
+        ]
+      },
+      "id": "node/11889992775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11920195112",
+        "check_date": "2024-05-20",
+        "description": "Biological pet food, grooming, toys and games, pet sitting,dog walking",
+        "name": "Pet Bio-Bites",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7474103,
+          37.8632869
+        ]
+      },
+      "id": "node/11920195112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11987715026",
+        "check_date": "2024-06-17",
+        "name": "Pet City",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7438246,
+          37.9780281
+        ]
+      },
+      "id": "node/11987715026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998405846",
+        "name": "Pet Square",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9259436,
+          40.6531053
+        ]
+      },
+      "id": "node/11998405846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12042593470",
+        "name": "Zoo land",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6261806,
+          37.9637985
+        ]
+      },
+      "id": "node/12042593470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12043213469",
+        "name": "Pet house",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6257061,
+          37.964751
+        ]
+      },
+      "id": "node/12043213469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12053122769",
+        "addr:city": "Άγιος Δημήτριος",
+        "addr:street": "Εθνικής Αντιστάσεως",
+        "name": "Zoo Center",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7398273,
+          37.9461051
+        ]
+      },
+      "id": "node/12053122769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12182993602",
+        "addr:housenumber": "3",
+        "addr:postcode": "15351",
+        "addr:street": "Ιπποκράτους",
+        "name": "Evita's Pet Salon",
+        "opening_hours": "Mo, We, Sa 09:00-16:00; Tu, Th-Fr 09:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "697 356 0843",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8499975,
+          37.9908257
+        ]
+      },
+      "id": "node/12182993602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12216054440",
+        "name": "VETAGRO",
+        "operator": "ΜΑΝΘΟΣ Σ. - ΜΕΛΛΙΟΠΟΥΛΟΣ Κ.",
+        "phone": "+30 2467081981",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2561977,
+          40.5189327
+        ]
+      },
+      "id": "node/12216054440"
+    }
+  ]
+}
