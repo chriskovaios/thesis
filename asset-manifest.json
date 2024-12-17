@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/thesis/static/css/main.dc16b218.css",
-    "main.js": "/thesis/static/js/main.3ca78e83.js",
+    "main.js": "/thesis/static/js/main.d0b633e4.js",
     "static/js/453.a1d0b822.chunk.js": "/thesis/static/js/453.a1d0b822.chunk.js",
     "static/media/petshopGR.geojson": "/thesis/static/media/petshopGR.663de897df5023f62ab8.geojson",
     "static/media/Telma-Variable.ttf": "/thesis/static/media/Telma-Variable.f8b51580efedab159294.ttf",
@@ -32,11 +32,11 @@
     "static/media/dogpark.png": "/thesis/static/media/dogpark.2a6e9b55cfbd0d3fe096.png",
     "index.html": "/thesis/index.html",
     "main.dc16b218.css.map": "/thesis/static/css/main.dc16b218.css.map",
-    "main.3ca78e83.js.map": "/thesis/static/js/main.3ca78e83.js.map",
+    "main.d0b633e4.js.map": "/thesis/static/js/main.d0b633e4.js.map",
     "453.a1d0b822.chunk.js.map": "/thesis/static/js/453.a1d0b822.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc16b218.css",
-    "static/js/main.3ca78e83.js"
+    "static/js/main.d0b633e4.js"
   ]
 }
